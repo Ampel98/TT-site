@@ -144,6 +144,13 @@ window.galleryData = {
       images: ['']
     },
     {
+      id: 'zz_202203',
+      name: '2022.03 《着录SOLO》',
+      poster: '',
+      desc: '黄婷婷「我自由我」电子刊',
+      images: ['']
+    },
+    {
       id: 'zz_202201',
       name: '2022.01 《锐界area》',
       poster: '',
