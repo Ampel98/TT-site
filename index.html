@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTT</title>
+<link rel="icon" type="image/png" href="https://cloudflare-imgbed-94l.pages.dev/file/website/1793934596857_favicon.jpg">
+<link rel="preconnect" href="https://fonts.loli.net">
+<link href="https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= 顶部导航 ================= -->
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html"   class="nav-link active">Home</a></li>
+      <li><a href="profile.html" class="nav-link">Profile</a></li>
+      <li><a href="video.html"   class="nav-link">Video</a></li>
+      <li><a href="music.html"   class="nav-link">Music</a></li>
+      <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+    </ul>
+  </nav>
+
+  <form class="nav-search" action="search.html" method="get">
+    <svg class="nav-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+    </svg>
+    <input type="text" name="q" placeholder="搜索" autocomplete="off">
+  </form>
+</header>
+
+<!-- ================= 首页轮播 ================= -->
+<main style="flex:1;">
+  <div class="home-hero" id="homeHero">
+
+    <div class="hero-slide active"
+         style="background-image:url('https://s3.bmp.ovh/2026/10/11/vCCX1P9U.jpg'); background-position: 70% 25%;"></div>
+
+    <div class="hero-slide"
+         style="background-image:url('https://s3.bmp.ovh/2026/10/11/lTWJAnA6.jpg');"></div>
+
+    <div class="hero-slide"
+         style="background-image:url('https://s3.bmp.ovh/2026/10/11/wndF5FqG.jpg');"></div>
+
+    <div class="hero-slide"
+         style="background-image:url('https://s3.bmp.ovh/2026/10/11/XrKkyY13.jpg'); background-position: 65% 25%;"></div>
+
+    <div class="hero-caption"></div>
+
+    <div class="hero-dots" id="heroDots"></div>
+  </div>
+</main>
+
+<!-- ================= 轮播脚本 ================= -->
+<script>
+(function () {
+  const slides = document.querySelectorAll('.home-hero .hero-slide');
+  const dotsBox = document.getElementById('heroDots');
+  if (!slides.length) return;
+
+  let current = 0;
+  const INTERVAL = 5000;
+
+  // 生成指示点
+  slides.forEach((_, i) => {
+    const dot = document.createElement('span');
+    if (i === 0) dot.classList.add('active');
+    dot.addEventListener('click', () => {
+      goTo(i);
+      resetTimer();
+    });
+    dotsBox.appendChild(dot);
+  });
+
+  const dots = dotsBox.querySelectorAll('span');
+
+  function goTo(index) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = index;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+  }
+
+  let timer = setInterval(() => goTo((current + 1) % slides.length), INTERVAL);
+
+  function resetTimer() {
+    clearInterval(timer);
+    timer = setInterval(() => goTo((current + 1) % slides.length), INTERVAL);
+  }
+})();
+</script>
+
+</body>
+</html>

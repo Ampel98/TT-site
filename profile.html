@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTT | Profile</title>
+<link rel="icon" type="image/png" href="https://cloudflare-imgbed-94l.pages.dev/file/website/1793934596857_favicon.jpg">
+<link rel="preconnect" href="https://fonts.loli.net">
+<link href="https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html"   class="nav-link">Home</a></li>
+      <li><a href="profile.html" class="nav-link active">Profile</a></li>
+      <li><a href="video.html"   class="nav-link">Video</a></li>
+      <li><a href="music.html"   class="nav-link">Music</a></li>
+      <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+    </ul>
+  </nav>
+  <form class="nav-search" action="search.html" method="get">
+    <svg class="nav-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+    </svg>
+    <input type="text" name="q" placeholder="搜索" autocomplete="off">
+  </form>
+</header>
+
+<main class="page-content">
+  <div class="bio-card-wrap">
+    <div class="bio-stack">
+
+      <!-- 人物 -->
+      <div class="bio-person-section">
+        <div class="bio-person-header">
+          <div class="bio-person-avatar">
+            <img src="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_092a188a682657c760949f9b3dd70809~c5_300x300.jpeg?from=2956013662" alt="黄婷婷">
+          </div>
+          <div class="bio-person-headline">
+            <div class="bio-name">黄婷婷</div>
+            <div class="bio-name-en">Huang Tingting</div>
+          </div>
+        </div>
+
+        <div class="bio-cols" id="bio-self-cols"></div>
+
+        <div class="bio-social-block">
+          <div class="bio-social-title">本人社交平台</div>
+          <div class="bio-socials-list" id="bio-person-socials"></div>
+        </div>
+
+        <div class="bio-social-block">
+          <div class="bio-social-title">工作室社交平台</div>
+          <div class="bio-socials-list" id="bio-studio-socials"></div>
+        </div>
+      </div>
+
+      <!-- 宠物 -->
+      <div class="bio-pet-section">
+        <div class="bio-pet-header">
+          <div class="bio-pet-avatar">
+            <img src="https://sns-avatar-qc.xhscdn.com/avatar/66d5f529d0a6d335db281f36.jpg?imageView2/2/w/540/format/webp|imageMogr2/strip2" alt="五一">
+          </div>
+          <div class="bio-pet-headline">
+            <div class="bio-pet-name">五一</div>
+            <div class="bio-pet-name-en">Wuyi</div>
+          </div>
+        </div>
+
+        <div class="bio-cols" id="bio-pet-cols"></div>
+
+        <div class="bio-social-block">
+          <div class="bio-social-title">五一社交平台</div>
+          <div class="bio-socials-list" id="bio-pet-socials"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<script src="data/profile.js"></script>
+<script src="profile.js"></script>
+</body>
+</html>

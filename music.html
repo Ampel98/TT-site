@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTT | Music</title>
+<link rel="icon" type="image/png" href="https://cloudflare-imgbed-94l.pages.dev/file/website/1793934596857_favicon.jpg">
+<link rel="preconnect" href="https://fonts.loli.net">
+<link href="https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html"   class="nav-link">Home</a></li>
+      <li><a href="profile.html" class="nav-link">Profile</a></li>
+      <li><a href="video.html"   class="nav-link">Video</a></li>
+      <li><a href="music.html"   class="nav-link active">Music</a></li>
+      <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+    </ul>
+  </nav>
+  <form class="nav-search" action="search.html" method="get">
+    <svg class="nav-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+    </svg>
+    <input type="text" name="q" placeholder="搜索" autocomplete="off">
+  </form>
+</header>
+
+<main class="page-content">
+
+  <div id="music-list-view">
+    <div class="video-tabs">
+      <button class="tab-btn active" data-filter="all">All</button>
+      <button class="tab-btn" data-filter="solo">Solo</button>
+      <button class="tab-btn" data-filter="feat">Feat</button>
+      <button class="tab-btn" data-filter="other">其他</button>
+    </div>
+
+    <div class="music-grid" id="music-grid-container"></div>
+
+    <div class="video-pagination" id="musicPagination"></div>
+  </div>
+
+  <div id="music-detail-view" class="detail-view">
+    <div class="back-to-list" id="back-to-music-btn">← 返回音乐列表</div>
+    <div class="detail-container" id="music-detail-content"></div>
+  </div>
+
+</main>
+
+<script src="data/music.js"></script>
+<script src="music.js"></script>
+</body>
+</html>

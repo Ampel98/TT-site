@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTT | Video</title>
+<link rel="icon" type="image/png" href="https://cloudflare-imgbed-94l.pages.dev/file/website/1793934596857_favicon.jpg">
+<link rel="preconnect" href="https://fonts.loli.net">
+<link href="https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html"   class="nav-link">Home</a></li>
+      <li><a href="profile.html" class="nav-link">Profile</a></li>
+      <li><a href="video.html"   class="nav-link active">Video</a></li>
+      <li><a href="music.html"   class="nav-link">Music</a></li>
+      <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+    </ul>
+  </nav>
+  <form class="nav-search" action="search.html" method="get">
+    <svg class="nav-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+    </svg>
+    <input type="text" name="q" placeholder="搜索" autocomplete="off">
+  </form>
+</header>
+
+<main class="page-content">
+
+  <div class="video-tabs">
+    <button class="tab-btn active" data-subtarget="sub-series"     data-tab="series">影视</button>
+    <button class="tab-btn" data-subtarget="sub-variety"    data-tab="variety">综艺</button>
+    <button class="tab-btn" data-subtarget="sub-event"      data-tab="event">活动</button>
+    <button class="tab-btn" data-subtarget="sub-live"       data-tab="live">直播</button>
+    <button class="tab-btn" data-subtarget="sub-commercial" data-tab="commercial">商务</button>
+    <button class="tab-btn" data-subtarget="sub-magazine"   data-tab="magazine">杂志</button>
+    <button class="tab-btn" data-subtarget="sub-interview"  data-tab="interview">采访</button>
+    <button class="tab-btn" data-subtarget="sub-other"      data-tab="other">其他</button>
+    <button class="tab-btn" data-subtarget="sub-mv"         data-tab="mv">MV</button>
+    <button class="tab-btn" data-subtarget="sub-stage"      data-tab="stage">公演</button>
+    <button class="tab-btn" data-subtarget="sub-group"      data-tab="group">前团</button>
+  </div>
+
+  <div class="video-filters" id="videoFilters">
+    <div class="filter-row">
+      <span class="filter-label">分类：</span>
+      <div class="filter-options" id="filterGroup"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">年份：</span>
+      <div class="filter-options" id="filterYear"></div>
+    </div>
+  </div>
+
+  <div class="video-content-wrapper">
+    <div id="sub-series"     class="video-sub-page active"><div id="series-list-view"></div></div>
+    <div id="sub-variety"    class="video-sub-page"><div id="variety-list-view"></div></div>
+    <div id="sub-event"      class="video-sub-page"><div id="event-list-view"></div></div>
+    <div id="sub-live"       class="video-sub-page"><div id="live-list-view"></div></div>
+    <div id="sub-commercial" class="video-sub-page"><div id="commercial-list-view"></div></div>
+    <div id="sub-magazine"   class="video-sub-page"><div id="magazine-list-view"></div></div>
+    <div id="sub-interview"  class="video-sub-page"><div id="interview-list-view"></div></div>
+    <div id="sub-other"      class="video-sub-page"><div id="other-list-view"></div></div>
+    <div id="sub-mv"         class="video-sub-page"><div id="mv-list-view"></div></div>
+    <div id="sub-stage"      class="video-sub-page"><div id="stage-list-view"></div></div>
+    <div id="sub-group"      class="video-sub-page"><div id="group-list-view"></div></div>
+  </div>
+
+  <div class="video-pagination" id="videoPagination"></div>
+
+</main>
+
+<script src="data/utils.js"></script>
+<script src="data/series.js"></script>
+<script src="data/variety.js"></script>
+<script src="data/mv.js"></script>
+<script src="data/other.js"></script>
+<script src="data/live.js"></script>
+<script src="data/stage.js"></script>
+<script src="data/event.js"></script>
+<script src="data/group.js"></script>
+<script src="data/commercial.js"></script>
+<script src="data/magazine.js"></script>
+<script src="data/interview.js"></script>
+<script src="video.js"></script>
+</body>
+</html>
