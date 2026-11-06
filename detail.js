@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (v.download) actions.push(`<a href="${v.download}" target="_blank">${DL_ICON} 下载</a>`);
 
       const coverHtml = v.cover
-        ? `<a href="${v.url}" target="_blank" class="video-cover"><img src="${v.cover}" alt="${v.label}"></a>`
+        ? `<a href="${v.url}" target="_blank" class="video-cover"><img src="${v.cover}" alt="${v.label}" loading="lazy" decoding="async"></a>`
         : '';
 
       return `
@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', function () {
           ${downloads.map(d => `
             <div class="download-item-wrap">
               ${d.desc ? `<div class="dl-title" style="color:#ddd;font-size:18px;margin-bottom:10px;">${d.desc}</div>` : ''}
-              ${d.cover ? `<div class="dl-cover-wrap"><img src="${d.cover}" alt="${d.label || '下载'}"></div>` : ''}
+              ${d.cover ? `<div class="dl-cover-wrap"><img src="${d.cover}" alt="${d.label || '下载'}" loading="lazy" decoding="async"></div>` : ''}
               <div class="download-item">
                 <span class="dl-label">${d.label || '下载'}</span>
                 ${d.mediaInfo ? `<span class="dl-mediaInfo">${d.mediaInfo}</span>` : ''}
@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // ===== 渲染 =====
   const posterHtml = item.poster
-    ? `<img src="${item.poster}" alt="">`
+    ? `<img src="${item.poster}" alt="" fetchpriority="high" decoding="async">`
     : `<div class="poster-empty" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#666;font-size:14px;letter-spacing:2px;">暂未更新</div>`;
 
   root.innerHTML = `

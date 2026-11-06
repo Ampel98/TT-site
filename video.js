@@ -15,19 +15,112 @@ document.addEventListener('DOMContentLoaded', function () {
     interview:  'sub-interview'
   };
 
-  const DATA_SOURCES = {
-    series:     { containerId: 'series-list-view',     data: () => seriesData,     type: 'series' },
-    variety:    { containerId: 'variety-list-view',    data: () => varietyData,    type: 'variety' },
-    mv:         { containerId: 'mv-list-view',         data: () => mvData,         type: 'mv' },
-    other:      { containerId: 'other-list-view',      data: () => otherData,      type: 'other' },
-    live:       { containerId: 'live-list-view',       data: () => liveData,       type: 'live' },
-    stage:      { containerId: 'stage-list-view',      data: () => stageData,      type: 'stage' },
-    event:      { containerId: 'event-list-view',      data: () => eventData,      type: 'event' },
-    group:      { containerId: 'group-list-view',      data: () => groupVideoData, type: 'group' },
-    commercial: { containerId: 'commercial-list-view', data: () => commercialData, type: 'commercial' },
-    magazine:   { containerId: 'magazine-list-view',   data: () => magazineData,   type: 'magazine' },
-    interview:  { containerId: 'interview-list-view',  data: () => interviewData,  type: 'interview' }
-  };
+const DATA_SOURCES = {
+  series: {
+    file: 'data/series.js',
+    containerId: 'series-list-view',
+    data: () => window.seriesData,
+    type: 'series'
+  },
+  variety: {
+    file: 'data/variety.js',
+    containerId: 'variety-list-view',
+    data: () => window.varietyData,
+    type: 'variety'
+  },
+  mv: {
+    file: 'data/mv.js',
+    containerId: 'mv-list-view',
+    data: () => window.mvData,
+    type: 'mv'
+  },
+  other: {
+    file: 'data/other.js',
+    containerId: 'other-list-view',
+    data: () => window.otherData,
+    type: 'other'
+  },
+  live: {
+    file: 'data/live.js',
+    containerId: 'live-list-view',
+    data: () => window.liveData,
+    type: 'live'
+  },
+  stage: {
+    file: 'data/stage.js',
+    containerId: 'stage-list-view',
+    data: () => window.stageData,
+    type: 'stage'
+  },
+  event: {
+    file: 'data/event.js',
+    containerId: 'event-list-view',
+    data: () => window.eventData,
+    type: 'event'
+  },
+  group: {
+    file: 'data/group.js',
+    containerId: 'group-list-view',
+    data: () => window.groupVideoData,
+    type: 'group'
+  },
+  commercial: {
+    file: 'data/commercial.js',
+    containerId: 'commercial-list-view',
+    data: () => window.commercialData,
+    type: 'commercial'
+  },
+  magazine: {
+    file: 'data/magazine.js',
+    containerId: 'magazine-list-view',
+    data: () => window.magazineData,
+    type: 'magazine'
+  },
+  interview: {
+    file: 'data/interview.js',
+    containerId: 'interview-list-view',
+    data: () => window.interviewData,
+    type: 'interview'
+  }
+};
+
+const loadedScripts = {};
+
+function loadTabData(tab) {
+  const src = DATA_SOURCES[tab];
+
+  if (!src) return Promise.reject(new Error('未知分类'));
+
+  // 已加载的数据直接使用
+  if (src.data()) return Promise.resolve();
+
+  // 防止重复加载
+  if (loadedScripts[tab]) return loadedScripts[tab];
+
+  loadedScripts[tab] = new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+
+    script.src = src.file;
+
+    script.onload = () => {
+      if (src.data()) {
+        resolve();
+      } else {
+        delete loadedScripts[tab];
+        reject(new Error('数据文件未正确初始化：' + src.file));
+      }
+    };
+
+    script.onerror = () => {
+      delete loadedScripts[tab];
+      reject(new Error('数据加载失败：' + src.file));
+    };
+
+    document.body.appendChild(script);
+  });
+
+  return loadedScripts[tab];
+}
 
   const STAGE_ORDER = [
     '特殊公演', '时之卷', 'N.E.W', '以爱之名', '专属派对',
@@ -116,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const subText = SUBTEXT_RULES[type] ? SUBTEXT_RULES[type](it) : (it.date || it.year || '').trim();
 
     const posterHtml = it.poster
-      ? `<img src="${it.poster}" alt="${it.name}">`
+      ? `<img src="${it.poster}" alt="${it.name}" loading="lazy" decoding="async">`
       : `<div class="poster-empty">暂未更新</div>`;
 
     return `
@@ -281,11 +374,33 @@ document.addEventListener('DOMContentLoaded', function () {
       p.classList.toggle('active', p.id === targetId);
     });
 
-    const src = DATA_SOURCES[currentTab];
-    if (src) {
+const tab = currentTab;
+const src = DATA_SOURCES[tab];
+
+if (src) {
+  const container = document.getElementById(src.containerId);
+
+  if (container && !src.data()) {
+    container.innerHTML = '<p style="padding:20px;color:#888;">正在加载...</p>';
+  }
+
+  loadTabData(tab)
+    .then(() => {
+      // 防止快速切换分类时显示错误的数据
+      if (currentTab !== tab) return;
+
       buildFilters(getGroups(src));
       renderPage();
-    }
+    })
+    .catch(error => {
+      console.error(error);
+
+      if (currentTab === tab && container) {
+        container.innerHTML =
+          '<p style="padding:20px;color:#888;">数据加载失败，请刷新重试。</p>';
+      }
+    });
+}
 
     if (pushState !== false) {
       syncUrl(params => {

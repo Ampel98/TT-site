@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // ===== 详情渲染 =====
   function renderBlock(s, item, index) {
     if (typeof s === 'string') {
-      return s ? `<img src="${s}" alt="${item.name} ${index + 1}">` : '';
+      return s ? `<img src="${s}" alt="${item.name} ${index + 1}" loading="lazy" decoding="async">` : '';
     }
     if (s && typeof s === 'object') {
       if (s.spacer) return `<div class="gallery-spacer"></div>`;
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <a class="media-card" data-gallery-id="${it.id}" href="gallery.html?item=${it.id}">
         <div class="poster">
           ${it.poster
-            ? `<img src="${it.poster}" alt="${it.name}">`
+            ? `<img src="${it.poster}" alt="${it.name}" loading="lazy" decoding="async">`
             : `<div class="poster-empty">暂未更新</div>`}
         </div>
         <div class="media-name">${it.name}</div>
