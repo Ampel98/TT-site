@@ -26,7 +26,12 @@ window.varietyData = {
         platform: '腾讯视频', year: '2018', episodes: '全12期',
         cast: '黄婷婷 / SNH48',
         synopsis: '出演期数：1、2、6、8',
-        fullVideo: [],
+        fullVideo: [
+          { label: 'B站 - 第一期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1XW411T7Tc', url: 'https://www.bilibili.com/video/BV1XW411T7Tc' },
+          { label: 'B站 - 第二期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV14W411M7PY', url: 'https://www.bilibili.com/video/BV14W411M7PY' },
+          { label: 'B站 - 第六期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV19W41137A3', url: 'https://www.bilibili.com/video/BV19W41137A3' },
+          { label: 'B站 - 第八期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1cp411o7tJ', url: 'https://www.bilibili.com/video/BV1cp411o7tJ' }
+        ],
         behindScenes: [],
         downloads: []
       },
@@ -35,7 +40,15 @@ window.varietyData = {
         platform: '江苏卫视', year: '2018', episodes: '全12期',
         cast: '黄婷婷 / 群星',
         synopsis: '出演期数：3、5、6、8、9、10、12',
-        fullVideo: [],
+        fullVideo: [
+          { label: 'B站 - 第三期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=23309696', url: 'https://www.bilibili.com/video/av23309696' },
+          { label: 'B站 - 第五期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=23980227', url: 'https://www.bilibili.com/video/av23980227' },
+          { label: 'B站 - 第六期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=24304639', url: 'https://www.bilibili.com/video/av24304639' },
+          { label: 'B站 - 第八期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=24979853', url: 'https://www.bilibili.com/video/av24979853' },
+          { label: 'B站 - 第九期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=25477436', url: 'https://www.bilibili.com/video/av25477436' },
+          { label: 'B站 - 第十期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=25864748', url: 'https://www.bilibili.com/video/av25864748' },
+          { label: 'B站 - 第十二期', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=26867637', url: 'https://www.bilibili.com/video/av26867637' }
+        ],
         behindScenes: [],
         downloads: []
       },
@@ -44,7 +57,18 @@ window.varietyData = {
         platform: 'PPTV / 江苏卫视', year: '2017', episodes: '全12期',
         cast: '黄婷婷 / 群星',
         synopsis: '出演期数：全季',
-        fullVideo: [{ label: 'B站 - 第一期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Xx411m78x', url: 'https://www.bilibili.com/video/BV1Xx411m78x' }],
+        fullVideo: [
+          { label: 'B站 - 第一期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Xx411m78x', url: 'https://www.bilibili.com/video/BV1Xx411m78x' },
+          { label: 'B站 - 第二期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Lx411v7ec', url: 'https://www.bilibili.com/video/BV1Lx411v7ec' },
+          { label: 'B站 - 第三期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1kx411Y7qK', url: 'https://www.bilibili.com/video/BV1kx411Y7qK' },
+          { label: 'B站 - 第四期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1hx411e7XY', url: 'https://www.bilibili.com/video/BV1hx411e7XY' },
+          { label: 'B站 - 第五期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Bx411a7TW', url: 'https://www.bilibili.com/video/BV1Bx411a7TW' },
+          { label: 'B站 - 第六期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV19x41187Me', url: 'https://www.bilibili.com/video/BV19x41187Me' },
+          { label: 'B站 - 第七期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1yx411h7E5', url: 'https://www.bilibili.com/video/BV1yx411h7E5' },
+          { label: 'B站 - 第八期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1mx41167or', url: 'https://www.bilibili.com/video/BV1mx41167or' },
+          { label: 'B站 - 第九期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1ex411z7Mt', url: 'https://www.bilibili.com/video/BV1ex411z7Mt' },
+          { label: 'B站 - 第十期 CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1mx411q7EV', url: 'https://www.bilibili.com/video/BV1mx411q7EV' }
+        ],
         behindScenes: [],
         downloads: []
       },
@@ -53,7 +77,12 @@ window.varietyData = {
         platform: '搜狐视频 / 深圳卫视', year: '2016', episodes: '全10期',
         cast: '黄婷婷 / 群星',
         synopsis: '出演期数：1~5',
-        fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Gjz1B2Ext', url: 'https://www.bilibili.com/video/BV1Gjz1B2Ext' }],
+        fullVideo: [
+          { label: 'B站 - 发布会', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Fs41167k6', url: 'https://www.bilibili.com/video/BV1Fs41167k6' },
+          { label: 'B站 - 正片 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Gjz1B2Ext', url: 'https://www.bilibili.com/video/BV1Gjz1B2Ext' },
+          { label: 'B站 - 极速攻略', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Vs411k7HF', url: 'https://www.bilibili.com/video/BV1Vs411k7HF' },
+          { label: 'B站 - 全景看明星', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1qs411y71r', url: 'https://www.bilibili.com/video/BV1qs411y71r' }
+        ],
         behindScenes: [],
         downloads: []
       },
@@ -62,7 +91,23 @@ window.varietyData = {
         platform: '优酷视频 / 东方卫视', year: '2016', episodes: '全12期',
         cast: '黄婷婷 / 群星',
         synopsis: '出演期数：全季',
-        fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1bs411z7iZ', url: 'https://www.bilibili.com/video/BV1bs411z7iZ' }],
+        fullVideo: [
+          { label: 'B站 - 正片 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1bs411z7iZ', url: 'https://www.bilibili.com/video/BV1bs411z7iZ' },
+          { label: 'B站 - 美少女电视台 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3744643', url: 'https://www.bilibili.com/video/av3744643' },
+          { label: 'B站 - 第二期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3804711', url: 'https://www.bilibili.com/video/av3804711' },
+          { label: 'B站 - 第三期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3804920', url: 'https://www.bilibili.com/video/av3804920' },
+          { label: 'B站 - 第四期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3805053', url: 'https://www.bilibili.com/video/av3805053' },
+          { label: 'B站 - 第五期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3801140', url: 'https://www.bilibili.com/video/av3801140' },
+          { label: 'B站 - 第六期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3909024', url: 'https://www.bilibili.com/video/av3909024' },
+          { label: 'B站 - 第七期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=3974072', url: 'https://www.bilibili.com/video/av3974072' },
+          { label: 'B站 - 第八期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4045184', url: 'https://www.bilibili.com/video/av4045184' },
+          { label: 'B站 - 第九期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4109410', url: 'https://www.bilibili.com/video/av4109410' },
+          { label: 'B站 - 第十期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4160560', url: 'https://www.bilibili.com/video/av4160560' },
+          { label: 'B站 - 第十一期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4203063', url: 'https://www.bilibili.com/video/av4203063' },
+          { label: 'B站 - 第十二期 后台视角', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4269273', url: 'https://www.bilibili.com/video/av4269273' },
+          { label: 'B站 - 国美化妆间探秘花絮', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4091666', url: 'https://www.bilibili.com/video/av4091666' },
+          { label: 'B站 - 国民表情包成长记花絮', type: 'iframe', embed: 'https://player.bilibili.com/player.html?aid=4430561', url: 'https://www.bilibili.com/video/av4430561' }
+        ],
         behindScenes: [],
         downloads: []
       },
