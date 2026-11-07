@@ -126,15 +126,6 @@ window.otherData = {
         synopsis: '',
         videos: [],
         downloads: []
-      },
-      {
-        id: 'other_2012',
-        name: '2012年 其他物料 合集',
-        poster: '',
-        date: '2012',
-        synopsis: '20121012 SNH48一期生终试纪录片',
-        videos: [],
-        downloads: []
       }
     ]}
   ]

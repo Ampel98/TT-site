@@ -242,6 +242,12 @@ window.groupVideoData = {
         date: '2013', synopsis: '',
         fullVideo: [{ label: 'B站 - 完整版', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1cs41197q2', url: 'https://www.bilibili.com/video/BV1cs41197q2' }],
         downloads: []
+      },
+      {
+        id: 'jlp_2012', name: 'SNH48一期生终试纪录片', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1794064990935_20121012.jpg',
+        date: '2012.10.12', synopsis: '',
+        fullVideo: [{ label: 'B站 - 完整版', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Ux411V7kk', url: 'https://www.bilibili.com/video/BV1Ux411V7kk' }],
+        downloads: []
       }
     ]}
   ]
