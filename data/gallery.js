@@ -1,125 +1,5 @@
 window.galleryData = {
 
-  /* ===== 生写 ===== */
-  'gallery-photo': [
-    {
-      id: 'sx_',
-      name: '暂无',
-      poster: '',
-      desc: '',
-      images: ['']
-    }
-  ],
-
-  /* ===== 写真 ===== */
-  'gallery-photobook': [
-    {
-      id: 'xz2018_srh',
-      name: '2018.09 《光》生日会画册',
-      poster: '',
-      desc: '',
-      images: ['']
-    },
-    {
-      id: 'xz2017_srh',
-      name: '2017.09 《黑夜女神》生日会画册',
-      poster: '',
-      desc: '',
-      images: ['']
-    },
-    {
-      id: 'xz2019_ndxt',
-      name: '2019.05 《那年夏天的梦》写真集精装B版',
-      poster: '',
-      desc: 'SNH48 GROUP 第24张EP《那年夏天的梦》夏日写真集精装B版',
-      images: ['']
-    },
-    {
-      id: 'xz2018_tl',
-      name: '2018.10 SNH48 2019年台历',
-      poster: '',
-      desc: 'https://shop.48.cn/goods/item/5892',
-      images: ['']
-    },
-    {
-      id: 'xz2018_mndsp',
-      name: '2018.10 《魔女的诗篇》精装版',
-      poster: '',
-      desc: '',
-      images: ['']
-    },
-    {
-      id: 'xz2018_dlqx',
-      name: '2018.09 《砥砺前行——偶像之路上的鲜花与荆棘》写真集',
-      poster: '',
-      desc: '《砥砺前行——偶像之路上的鲜花与荆棘》SNH48 GORUP五届总决选纪念写真集',
-      images: ['']
-    },
-    {
-      id: 'xz2018_wdsj',
-      name: '2018.03 《我的世界还有你》写真集',
-      poster: '',
-      desc: 'SNH48 GROUP第四届年度金曲大赏全记录《我的世界还有你》',
-      images: ['']
-    },
-    {
-      id: 'xz2017_nbls',
-      name: '2017.10 《那不勒斯的黎明》精装版',
-      poster: '',
-      desc: 'SNH48 GROUP第四届年度偶像人气总决选汇报单《那不勒斯的黎明》精装版',
-      images: ['']
-    },
-    {
-      id: 'xz2017_snm',
-      name: '2017.08 《少女们的战场与舞台》写真集',
-      poster: '',
-      desc: 'SNH48首本纪实写真集—《少女们的战场与舞台》',
-      images: ['']
-    },
-    {
-      id: 'xz2017_nmc',
-      name: '2017.05 《夏日柠檬船》精装版',
-      poster: '',
-      desc: '“我心翱翔”SNH48第四届偶像年度人气总决选专属投票EP—《夏日柠檬船》精装版',
-      images: ['']
-    },
-    {
-      id: 'xz2016_gzpf',
-      name: '2016.10 《公主披风》精装版',
-      poster: '',
-      desc: 'SNH48第三届年度偶像人气总决选汇报单《公主披风》精装版',
-      images: ['']
-    },
-    {
-      id: 'xz2016_mxd',
-      name: '2016.05 《梦想岛》精装版',
-      poster: '',
-      desc: 'SNH48 第三届总决选投票EP《梦想岛》 精装版',
-      images: ['']
-    },
-    {
-      id: 'xz2016_jcns',
-      name: '2016.01 《我的剧场女神》写真集',
-      poster: '',
-      desc: '《我的剧场女神》公演全记录纪念套装',
-      images: ['']
-    },
-    {
-      id: 'xz2015_wsj',
-      name: '2015.10 《万圣节之夜》精装版',
-      poster: '',
-      desc: '',
-      images: ['']
-    },
-    {
-      id: 'xz2015_hsy',
-      name: '2015.05 《盛夏好声音》精装版',
-      poster: '',
-      desc: 'SNH48 第二届总决选投票EP《盛夏好声音》 精装版',
-      images: ['']
-    }
-  ],
-
   /* ===== 杂志 ===== */
   'gallery-magazine': [
     {
@@ -270,5 +150,125 @@ window.galleryData = {
       desc: '共计23张',
       images: ['', '', '']
     }
-  ]
+  ],
+
+  /* ===== 生写 ===== */
+  'gallery-photo': [
+    {
+      id: 'sx_',
+      name: '暂无',
+      poster: '',
+      desc: '',
+      images: ['']
+    }
+  ],
+
+  /* ===== 写真 ===== */
+  'gallery-photobook': [
+    {
+      id: 'xz2018_srh',
+      name: '2018.09 《光》生日会画册',
+      poster: '',
+      desc: '',
+      images: ['']
+    },
+    {
+      id: 'xz2017_srh',
+      name: '2017.09 《黑夜女神》生日会画册',
+      poster: '',
+      desc: '',
+      images: ['']
+    },
+    {
+      id: 'xz2019_ndxt',
+      name: '2019.05 《那年夏天的梦》写真集精装B版',
+      poster: '',
+      desc: 'SNH48 GROUP 第24张EP《那年夏天的梦》夏日写真集精装B版',
+      images: ['']
+    },
+    {
+      id: 'xz2018_tl',
+      name: '2018.10 SNH48 2019年台历',
+      poster: '',
+      desc: 'https://shop.48.cn/goods/item/5892',
+      images: ['']
+    },
+    {
+      id: 'xz2018_mndsp',
+      name: '2018.10 《魔女的诗篇》精装版',
+      poster: '',
+      desc: '',
+      images: ['']
+    },
+    {
+      id: 'xz2018_dlqx',
+      name: '2018.09 《砥砺前行——偶像之路上的鲜花与荆棘》写真集',
+      poster: '',
+      desc: '《砥砺前行——偶像之路上的鲜花与荆棘》SNH48 GORUP五届总决选纪念写真集',
+      images: ['']
+    },
+    {
+      id: 'xz2018_wdsj',
+      name: '2018.03 《我的世界还有你》写真集',
+      poster: '',
+      desc: 'SNH48 GROUP第四届年度金曲大赏全记录《我的世界还有你》',
+      images: ['']
+    },
+    {
+      id: 'xz2017_nbls',
+      name: '2017.10 《那不勒斯的黎明》精装版',
+      poster: '',
+      desc: 'SNH48 GROUP第四届年度偶像人气总决选汇报单《那不勒斯的黎明》精装版',
+      images: ['']
+    },
+    {
+      id: 'xz2017_snm',
+      name: '2017.08 《少女们的战场与舞台》写真集',
+      poster: '',
+      desc: 'SNH48首本纪实写真集—《少女们的战场与舞台》',
+      images: ['']
+    },
+    {
+      id: 'xz2017_nmc',
+      name: '2017.05 《夏日柠檬船》精装版',
+      poster: '',
+      desc: '“我心翱翔”SNH48第四届偶像年度人气总决选专属投票EP—《夏日柠檬船》精装版',
+      images: ['']
+    },
+    {
+      id: 'xz2016_gzpf',
+      name: '2016.10 《公主披风》精装版',
+      poster: '',
+      desc: 'SNH48第三届年度偶像人气总决选汇报单《公主披风》精装版',
+      images: ['']
+    },
+    {
+      id: 'xz2016_mxd',
+      name: '2016.05 《梦想岛》精装版',
+      poster: '',
+      desc: 'SNH48 第三届总决选投票EP《梦想岛》 精装版',
+      images: ['']
+    },
+    {
+      id: 'xz2016_jcns',
+      name: '2016.01 《我的剧场女神》写真集',
+      poster: '',
+      desc: '《我的剧场女神》公演全记录纪念套装',
+      images: ['']
+    },
+    {
+      id: 'xz2015_wsj',
+      name: '2015.10 《万圣节之夜》精装版',
+      poster: '',
+      desc: '',
+      images: ['']
+    },
+    {
+      id: 'xz2015_hsy',
+      name: '2015.05 《盛夏好声音》精装版',
+      poster: '',
+      desc: 'SNH48 第二届总决选投票EP《盛夏好声音》 精装版',
+      images: ['']
+    }
+  ],
 };
