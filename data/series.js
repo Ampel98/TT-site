@@ -19,7 +19,13 @@ window.seriesData = {
           { label: '爱奇艺国际 - 全集', type: 'link', url: 'https://www.iq.com/album/%E6%8A%98%E6%9C%88%E4%BA%AE-2026-ysyflhzw09' },
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '4K | MP4 | 三无',
+          url: 'https://pan.quark.cn/s/939be1c4d8c9?pwd=r6yq',
+          code: 'r6yq',
+          cover: 'https://i.postimg.cc/G3g7V5YM/zyl-E03.jpg'},
+        ],
         stills: []
       },
       {
@@ -47,12 +53,9 @@ window.seriesData = {
           code: '7qD7',
           cover: 'https://i.postimg.cc/qMVXrYLy/fdwxs-E17.jpg'},
           { label: '度盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 三无',
           url: 'https://pan.baidu.com/s/1VksqS8VEqYyc-t_VpruCjQ?pwd=91id',
-          code: '91id'},
-          { label: '115盘 - 单人CUT',
-          url: 'https://115cdn.com/s/sws00223hqi?password=he23&#',
-          code: 'he23'}
-
+          code: '91id'}
         ],
         stills: [
           { src: 'https://i.postimg.cc/pL4k0sC0/fdwxs-(1).jpg', pos: '85% center' },
@@ -85,6 +88,7 @@ window.seriesData = {
           code: '34qG',
           cover: 'https://i.postimg.cc/bvJFnM4D/cx-E12.jpg'},
           { label: '度盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 三无',
           url: 'https://pan.baidu.com/s/1ocY8plOVNBgWXABz3OVI-A?pwd=87qq',
           code: '87qq'}
         ],
@@ -107,7 +111,7 @@ window.seriesData = {
         year: '2026',
         director: '嵇政',
         cast: '丁冠森 / 印小天 / 黄婷婷 / 郭品超 / 王宁 / 张晓谦等',
-        synopsis: '2026.02.66 腾讯视频上线播出\n出场集数：全集',
+        synopsis: '2026.02.66 腾讯视频上线播出\n出场集数：全',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/mzc00200sp5f6qy/g4101nfbc7g.html' }
         ],
@@ -116,7 +120,7 @@ window.seriesData = {
           mediaInfo: '4K60fps | MP4 | 硬字幕',
           url: 'https://pan.quark.cn/s/7a217a92c5f0?pwd=1aud',
           code: '1aud',
-          cover: ''}],
+          cover: 'https://i.postimg.cc/TwLz4v13/yn-E01.jpg'}],
         stills: [
           { src: 'https://i.postimg.cc/yxQry6zV/yn-(1).jpg', pos: 'center 25%' },
           { src: 'https://i.postimg.cc/7hsQnPyY/yn-(2).jpg', pos: 'center 0%' },
@@ -146,10 +150,10 @@ window.seriesData = {
         ],
         behindScenes: [],
         downloads: [{ label: '度盘 - 单人CUT',
-          desc: '4K60fps | MP4 | 三无',
+          mediaInfo: '4K60fps | MP4 | 三无',
           url: 'https://pan.baidu.com/s/1CL1cxtdv-Q6IR2HaY8gZqw?pwd=u2w4',
           code: 'u2w4',
-          cover: ''}],
+          cover: 'https://i.postimg.cc/kgwPVyLM/jksc-E01.jpg'}],
         stills: []
       },
       {
@@ -162,12 +166,18 @@ window.seriesData = {
         year: '2025',
         director: '方婷婷',
         cast: '黄婷婷 / 王星玮 / 赵圆圆 / 任宇 / 谢佩霏 / 罗其木以等',
-        synopsis: '2025.10.27 优酷视频全网独播\n出场集数：全集',
+        synopsis: '2025.10.27 优酷视频全网独播\n出场集数：全',
         fullVideo: [
           { label: '优酷视频 - 全集', type: 'link', url: 'https://v.youku.com/v_show/id_XNjUwNzAxMjMxMg==.html' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '度盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 硬字幕',
+          url: 'https://pan.baidu.com/s/1Vo63wexg-Gy8JyjY8O7wPw?pwd=hr3a',
+          code: 'hr3a',
+          cover: ''}
+        ],
         stills: []
       },
       {
@@ -191,7 +201,7 @@ window.seriesData = {
         behindScenes: [],
         downloads: [
           { label: '度盘 - 单人CUT',
-          mediaInfo: '4K | MP4 | 无台标硬字幕',
+          mediaInfo: '4K | MP4 | 硬字幕',
           url: 'https://pan.baidu.com/s/135xNlzfMk9A8KIPYiSuyrg?pwd=gf2w',
           code: 'gf2w',
           cover: ''}
@@ -208,13 +218,19 @@ window.seriesData = {
         year: '2025',
         director: '李少岚',
         cast: '黄婷婷 / 权裴伦 / 王彦鑫 / 韩煜等',
-        synopsis: '2025.06.13 腾讯视频上线播出\n出场集数：全集',
+        synopsis: '2025.06.13 腾讯视频上线播出\n出场集数：全',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/mzc00200i6uydda/u4101b7a1j6.html' },
           { label: 'LINETV - 全集', type: 'link', url: 'https://www.linetv.tw/drama/17656' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '4K60fps | MP4 | 硬字幕',
+          url: 'https://pan.quark.cn/s/9cd3a3086f5e?pwd=xsLr',
+          code: 'xsLr',
+          cover: 'https://i.postimg.cc/3w7Wh9mR/hy-E01.jpg'}
+        ],
         stills: []
       },
       {
@@ -250,7 +266,13 @@ window.seriesData = {
           { label: '优酷视频 - 全集', type: 'link', url: 'https://v.youku.com/v_show/id_XNjQxNDA5MDA2NA==.html' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '4K60fps | MP4 | 三无',
+          url: 'https://pan.quark.cn/s/35b218b75e97?pwd=Y41v',
+          code: 'Y41v',
+          cover: 'https://i.postimg.cc/HsbF7CVN/scb-E05.jpg'}
+        ],
         stills: []
       },
       {
@@ -263,12 +285,18 @@ window.seriesData = {
         year: '2025',
         director: '施磊',
         cast: '郑水晶 / 邓泽鸣 / 秦奋 / 黄婷婷 / 曾乙同 / 庄雨婷等',
-        synopsis: '2025.02.13 爱奇艺上线播出\n出场集数：',
+        synopsis: '2025.02.13 爱奇艺上线播出\n出场集数：1~7、9~14、16~17、20~23',
         fullVideo: [
           { label: '爱奇艺 - 全集', type: 'link', url: 'https://www.iqiyi.com/v_13j3s57xtdg.html' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '度盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 硬字幕',
+          url: 'https://pan.baidu.com/s/15SSGdlD1K1fS-b7ctv378w?pwd=0908',
+          code: '0908',
+          cover: ''}
+        ],
         stills: []
       },
       {
@@ -281,12 +309,18 @@ window.seriesData = {
         year: '2025',
         director: '戴琪',
         cast: '高一玮 / 蔡正杰 / 王俊笔 / 刘剑羽 / 黄婷婷等',
-        synopsis: '2025.01.06 腾讯视频上线播出\n出场集数：',
+        synopsis: '2025.01.06 腾讯视频上线播出\n出场集数：1~4',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/mzc00200n6pmzx1/j4100ef277n.html' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '4K60fps | MP4 | 三无',
+          url: 'https://pan.quark.cn/s/31f427bf9a2f?pwd=pQ9y',
+          code: 'pQ9y',
+          cover: 'https://i.postimg.cc/3RpkHRxm/dsyqa-E01.jpg'}
+        ],
         stills: []
       },
       {
@@ -299,7 +333,7 @@ window.seriesData = {
         year: '2024',
         director: '彭晨',
         cast: '衣云鹤 / 唐九洲 / 黄婷婷 / 金广发 / 陶亮等',
-        synopsis: '2024.09.30 腾讯视频上线播出\n出场集数：',
+        synopsis: '2024.09.30 腾讯视频上线播出\n出场集数：除九集以外全',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/mzc002004jqk4iq/n4100gl2zzk.html' }
         ],
@@ -317,12 +351,18 @@ window.seriesData = {
         year: '2024',
         director: '十一月',
         cast: '胡先煦 / 王彦霖 / 喻恩泰 / 阎鹤祥 / 曲哲明 / 黄婷婷等',
-        synopsis: '2024.02.28 优酷视频上线播出\n出场集数：',
+        synopsis: '2024.02.28 优酷视频上线播出\n出场集数：1、2、16、20、23、26',
         fullVideo: [
           { label: '优酷视频 - 全集', type: 'link', url: 'https://v.youku.com/v_show/id_XNjM3MTczOTM2OA==.html' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '4K60fps | MP4 | 三无',
+          url: 'https://pan.quark.cn/s/10d52adc1f3b?pwd=Ymxa',
+          code: 'Ymxa',
+          cover: 'https://i.postimg.cc/jdbFT7C5/fcrs-E01.jpg'}
+        ],
         stills: []
       },
       {
@@ -335,7 +375,7 @@ window.seriesData = {
         year: '2024',
         director: '西岛',
         cast: '黄婷婷 / 李岱昆 / 陈紫函 / 魏巍 / 朱云龙 / 书亚信等',
-        synopsis: '2024.02.26 腾讯视频上线播出\n出场集数：',
+        synopsis: '2024.02.26 腾讯视频上线播出\n出场集数：全',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/mzc002004wj9faj/e0048qkbf7t.html' }
         ],
@@ -353,14 +393,20 @@ window.seriesData = {
         year: '2023',
         director: '田少波',
         cast: '朱正廷 / 卢昱晓 / 黄婷婷 / 王皓轩 / 许纯 / 吴曼思等',
-        synopsis: '2023.05.31 爱奇艺上线播出\n出场集数：',
+        synopsis: '2023.05.31 爱奇艺上线播出\n出场集数：1~2、6~8、10~11、13~20、23~24',
         fullVideo: [
           { label: '爱奇艺 - 全集', type: 'link', url: 'https://www.iqiyi.com/v_14brdoern3g.html' },
           { label: '芒果TV - 全集', type: 'link', url: 'https://www.mgtv.com/b/614173/20311067.html' },
           { label: 'LINETV - 全集', type: 'link', url: 'https://www.linetv.tw/drama/14915' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '阿里云盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 硬字幕',
+          url: 'https://www.alipan.com/s/YrqomfuJqJ8',
+          code: '74gq',
+          cover: ''}
+        ],
         stills: []
       },
       {
@@ -373,7 +419,7 @@ window.seriesData = {
         year: '2018',
         director: '于敏',
         cast: '黄婷婷 / 刘忻 / 王霏霏 / 孟子荻 / 邓宁 / 刘育同等',
-        synopsis: '2018.07.02 腾讯视频上线播出\n出场集数：',
+        synopsis: '2018.07.02 腾讯视频上线播出\n出场集数：除21集外全',
         fullVideo: [
           { label: '腾讯视频 - 全集', type: 'link', url: 'https://v.qq.com/x/cover/xo0tfoxpinwtrf8/m0703c238yz.html' },
           { label: '腾讯视频 - 单人CUT', type: 'link', url: 'https://v.qq.com/x/cover/6lrhsaxgj0cvw66/l071005j1ko.html' }
@@ -457,7 +503,13 @@ window.seriesData = {
           { label: '微博', type: 'link', url: 'https://weibo.com/tv/show/1034:4911094058385456' }
         ],
         behindScenes: [],
-        downloads: [],
+        downloads: [
+          { label: '夸克 - 单人CUT',
+          mediaInfo: '1080P | MP4 | 三无',
+          url: 'https://pan.quark.cn/s/7a6081bb2eac?pwd=WC3p',
+          code: 'WC3p',
+          cover: 'https://i.postimg.cc/q7Rc0k8J/tsnz.jpg'},
+        ],
         stills: [
           { src: 'https://i.postimg.cc/k594Qm8y/tsnz-(1).jpg', pos: 'center 20%' },
           'https://i.postimg.cc/wBHvXpJ0/tsnz-(2).jpg',
