@@ -2,15 +2,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const PAGE_SIZE = 20; // 4 列 × 5 行
 
-  const CATS = ['gallery-photo', 'gallery-photobook', 'gallery-magazine', 'gallery-card'];
+  const CATS = ['gallery-magazine', 'gallery-card', 'gallery-photo', 'gallery-photobook'];
   const TAB_LABELS = {
-    'gallery-photo': '生写',
-    'gallery-photobook': '写真',
     'gallery-magazine': '杂志',
-    'gallery-card': '小卡'
+    'gallery-card': '小卡',
+    'gallery-photo': '生写',
+    'gallery-photobook': '写真'
   };
 
-  let currentCat  = 'gallery-photo';
+  let currentCat  = 'gallery-magazine';
   let currentPage = 1;
 
   // ===== 动态创建分类区块 =====
@@ -240,8 +240,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const initPage = parseInt(params.get('page'), 10);
   if (initPage > 1) currentPage = initPage;
 
-  // 3. 读 tab（URL 用短名：photo / photobook / magazine / card）
-  const catId = 'gallery-' + (params.get('tab') || 'photo');
+  // 3. 读 tab（URL 用短名：magazine / card / photo / photobook）
+  const catId = 'gallery-' + (params.get('tab') || 'magazine');
   if (galleryData[catId]) {
     currentCat = catId;
     setActiveTab(catId);
