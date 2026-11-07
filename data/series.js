@@ -25,6 +25,11 @@ window.seriesData = {
           url: 'https://pan.quark.cn/s/939be1c4d8c9?pwd=r6yq',
           code: 'r6yq',
           cover: 'https://i.postimg.cc/G3g7V5YM/zyl-E03.jpg'},
+          { label: '度盘 - 单人CUT',
+          mediaInfo: '4K | MP4 | 三无',
+          url: 'https://pan.baidu.com/s/1p_mT6JJByfjaWQZ5K0NyRg?pwd=pmma',
+          code: 'pmma',
+          cover: ''}
         ],
         stills: []
       },
