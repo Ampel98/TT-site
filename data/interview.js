@@ -644,6 +644,19 @@ window.interviewData = {
         downloads: []
       },
       {
+        id: 'cf_150329',
+        name: '20150329 新娱乐在线 SNH48专访',
+        media: '新娱乐在线',
+        type: '专访',
+        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_cf/1794057789747_150329.jpg',
+        platform: '',
+        date: '2015.03.29',
+        synopsis: '',
+        fullVideo: [{ label: '优酷视频', type: 'link', url: 'https://v.youku.com/v_show/id_XOTIyODA3NjQ0.html' }],
+        behindScenes: [],
+        downloads: []
+      },
+      {
         id: 'cf_150113',
         name: '20150113 56音乐下午茶 SNH48专访',
         media: '56音乐下午茶',
