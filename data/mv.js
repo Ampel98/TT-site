@@ -16,7 +16,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '4K | MP4 | 72.3MB',
+          url: 'https://pan.quark.cn/s/92889b34b36f?pwd=YB1M',
+          code: 'YB1M',
+          cover: 'https://i.postimg.cc/WbJQhb8s/am.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '4K | MP4 | 72.3MB',
+          url: 'https://pan.baidu.com/s/1FxDa2Rm6HbPXCoCix0VkBg?pwd=miwv',
+          code: 'miwv',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_wclq',
@@ -31,7 +42,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 126.5MB',
+          url: 'https://pan.quark.cn/s/2f5b12a1e1bd?pwd=bsg8',
+          code: 'bsg8',
+          cover: 'https://i.postimg.cc/dtTzLt6Q/wclq.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 126.5MB',
+          url: 'https://pan.baidu.com/s/1FBMtCnhac7V8f_JZM_p-wA?pwd=ivqf',
+          code: 'ivqf',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_wnys',
@@ -46,7 +68,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 379MB',
+          url: 'https://pan.quark.cn/s/a21e7e72e247?pwd=4hNG',
+          code: '4hNG',
+          cover: 'https://i.postimg.cc/rFtvKFjw/wnys.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 379MB',
+          url: 'https://pan.baidu.com/s/1d5DNP54gfFzftTSVE6nDmQ?pwd=pgby',
+          code: 'pgby',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_fy',
@@ -61,7 +94,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 85.3MB',
+          url: 'https://pan.quark.cn/s/40baa54dfdf4?pwd=PE73',
+          code: 'PE73',
+          cover: 'https://i.postimg.cc/dtTzLt6s/fy.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 85.3MB',
+          url: 'https://pan.baidu.com/s/16YUHhMC43EasBdIsHSW8rQ?pwd=3wmc',
+          code: '3wmc',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_ap',
@@ -76,7 +120,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 16.5MB',
+          url: 'https://pan.quark.cn/s/78a860ddcfe7?pwd=wmNa',
+          code: 'wmNa',
+          cover: 'https://i.postimg.cc/c48Vr4hS/ap.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 16.5MB',
+          url: 'https://pan.baidu.com/s/1m1MhGJK0-r0n8xwtGnaEPA?pwd=b54h',
+          code: 'b54h',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_hyns',
@@ -91,7 +146,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 137.4MB',
+          url: 'https://pan.quark.cn/s/029f73ebcd73?pwd=ut6r',
+          code: 'ut6r',
+          cover: 'https://i.postimg.cc/VLb3dLgL/hyns.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 137.4MB',
+          url: 'https://pan.baidu.com/s/10txE5BM0DZErcuEgPNoEBQ?pwd=w3dp',
+          code: 'w3dp',
+          cover: ''}
+        ]
       },
       {
         id: 'mv_xgsy',
@@ -106,7 +172,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '1080P | MP4 | 115.1MB',
+          url: 'https://pan.quark.cn/s/181092153596?pwd=LSFM',
+          code: 'LSFM',
+          cover: 'https://i.postimg.cc/28BPV8Gr/xgsy.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '1080P | MP4 | 115.1MB',
+          url: 'https://pan.baidu.com/s/1kOLQnnqeOXUoedCW0LXrgg?pwd=gmri',
+          code: 'gmri',
+          cover: ''}
+        ]
       }
     ]},
 
@@ -125,7 +202,18 @@ window.mvData = {
         ],
         danceVideo: [],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 完整版',
+          mediaInfo: '4K | MP4 | 714MB',
+          url: 'https://pan.quark.cn/s/4ca7723c0321?pwd=NxsQ',
+          code: 'NxsQ',
+          cover: 'https://i.postimg.cc/Pr8BPryn/cq.jpg'},
+          { label: '度盘 - 完整版',
+          mediaInfo: '4K | MP4 | 714MB',
+          url: 'https://pan.baidu.com/s/1zVILJUvQuRFQywd7hJPyrg?pwd=kuvr',
+          code: 'kuvr',
+          cover: ''}
+        ]
       }
     ]},
 
