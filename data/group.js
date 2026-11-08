@@ -9,13 +9,13 @@ window.groupVideoData = {
       },
       {
         id: 'zx_180728', name: '20180728 SNH48第五届偶像年度人气总决选', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256736395_20180728.jpg',
-        date: '2018.07.28', synopsis: '',
+        date: '2018.07.28', synopsis: '表演歌曲:\n\nSOLO \n《Show》\n\n多人 \n《那不勒斯的黎明》、《限定季》、《心的旅程》、《梦想的旗帜》、《逆转未来》、《光之轨迹》、《战歌》、《梦与星光的海上》、《砥砺前行》',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV16t411o7Re', url: 'https://www.bilibili.com/video/BV16t411o7Re' }],
         downloads: []
       },
       {
         id: 'zx_170728', name: '20170728 SNH48第四届偶像年度人气总决选', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256742949_20170728.jpg',
-        date: '2017.07.28', synopsis: '',
+        date: '2017.07.28', synopsis: '表演歌曲:\n\nSOLO \n《黑夜女神》\n\n多人 \n《公主披风》、《勇敢的心》、《夏日柠檬船》、《钻石呐喊》、《机尾云》、《彼此的未来》、《我心翱翔》',
         fullVideo: [{ label: 'B站 - 预热场 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1tx411W7rQ', url: 'https://www.bilibili.com/video/BV1tx411W7rQ' },
           { label: 'B站 - SOLO《黑夜女神》', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1ix411W7fT', url: 'https://www.bilibili.com/video/BV1ix411W7fT' },
           { label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1zx411W7mQ', url: 'https://www.bilibili.com/video/BV1zx411W7mQ' }],
@@ -23,19 +23,19 @@ window.groupVideoData = {
       },
       {
         id: 'zx_160730', name: '20160730 SNH48第三届偶像年度人气总决选', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256736026_20160730.jpg',
-        date: '2016.07.30', synopsis: '',
+        date: '2016.07.30', synopsis: '表演歌曲:\n\nUNIT \n黄婷婷 / 戴萌《暮蝉之恋》\n\n多人 \n《梦想岛》、《Shake It! Shake It!》、《Gentleman+小苹果》、《江南style+倍儿爽》、《正义之手》、《源动力》、《Bingo》、《一心向前》、《我的舞台》、《比翼齐飞》',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Cs411677i', url: 'https://www.bilibili.com/video/BV1Cs411677i' }],
         downloads: []
       },
       {
         id: 'zx_150725', name: '20150725 SNH48第二届偶像年度人气总决选', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256736822_20150725.jpg',
-        date: '2015.07.25', synopsis: '',
+        date: '2015.07.25', synopsis: '表演歌曲:\n\n多人 \n《亲吻进行式》、《盛夏好声音》、《因为喜欢你》、《爱情养成日记》、《雨季之后》、《激流之战》、《SNH驾临》、《We are the SNH》、《化为滚石》、《梅洛斯之路》、《无尽旋转》、《钻石呐喊》、《机尾云》、《梦想高飞》',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1ns411m7zs', url: 'https://www.bilibili.com/video/BV1ns411m7zs' }],
         downloads: []
       },
       {
         id: 'zx_140726', name: '20140726 SNH48第一届偶像年度人气总决选', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256733180_20140726.jpg',
-        date: '2014.07.26', synopsis: '',
+        date: '2014.07.26', synopsis: '表演歌曲:\n\n多人 \n《遥远的彼岸》、《飞翔入手》、《无尽旋转》、《第一只兔子》、《爱的意义》、《马尾与发圈》、《诚实的汗水》、《机尾云》、《一心向前》',
         fullVideo: [{ label: 'B站 - 全场', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1sf4y1e7LU', url: 'https://www.bilibili.com/video/BV1sf4y1e7LU' }],
         downloads: []
       }
@@ -43,7 +43,7 @@ window.groupVideoData = {
     { title: '金曲大赏', items: [
       {
         id: 'jqds_180203', name: '20180203 SNH48第四届年度金曲大赏演唱会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256737503_20180203.jpg',
-        date: '2018.02.03', synopsis: '2018.02.02 SNH48 FAMILY GROUP暨SNH48出道五周年纪念演唱会\n表演歌曲：\n\n2018.02.03 SNH48 GROUP第四届年度金曲大赏演唱会\n表演歌曲：',
+        date: '2018.02.03', synopsis: '2018.02.02 SNH48 FAMILY GROUP暨SNH48出道五周年纪念演唱会\n表演歌曲：《我的世界还有你》、《好运来》\n\n\n2018.02.03 SNH48 GROUP第四届年度金曲大赏演唱会\n表演歌曲:\n\nUNIT \n黄婷婷《人鱼》\n黄婷婷 / 费沁源 / 刘力菲 / 张凯祺《巧克力密语》\n黄婷婷 / 陆婷 / 姜杉 / 韩家乐《暴走少女》\n黄婷婷 / 易嘉爱《MAD WORLD》\n\n多人 \n《光之轨迹》',
         fullVideo: [{ label: 'B站 - 五周年纪念演唱会 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1bW411H7pg', url: 'https://www.bilibili.com/video/BV1bW411H7pg' },
           { label: 'B站 - 人鱼', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1BW411H7cy', url: 'https://www.bilibili.com/video/BV1BW411H7cy' },
           { label: 'B站 - 巧克力密语', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV16W411H7Vp', url: 'https://www.bilibili.com/video/BV16W411H7Vp' },
@@ -55,19 +55,19 @@ window.groupVideoData = {
       },
       {
         id: 'jq_170107', name: '20170107 SNH48第三届年度金曲大赏演唱会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256739759_20170107.jpg',
-        date: '2017.01.07', synopsis: '',
+        date: '2017.01.07', synopsis: '表演歌曲:\n\nSOLO \n黄婷婷《青春闪电》\n\nUNIT \n黄婷婷 / 刘增艳 / 马玉灵《不眠之夜》\n黄婷婷《爱恨的泪》\n\n多人 \n《Do it》、《摇摆节拍》、《第一只兔子》',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Ds411876f', url: 'https://www.bilibili.com/video/BV1Ds411876f' }],
         downloads: []
       },
       {
         id: 'jq_151226', name: '20151226 SNH48第二届年度金曲大赏演唱会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256742935_20151226.jpg',
-        date: '2015.12.26', synopsis: '',
+        date: '2015.12.26', synopsis: '表演歌曲:\n\nUNIT \n黄婷婷 / 赵粤《燃烧的道路》\n黄婷婷 / 戴萌 / 邱欣怡《如果你拥抱我》\n黄婷婷《夜蝶》\n\n多人 \n《新年的钟声》、《面包和奶油》、《BINGO》',
         fullVideo: [{ label: 'B站 - 全场', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1eV411h7en', url: 'https://www.bilibili.com/video/BV1eV411h7en' }],
         downloads: []
       },
       {
         id: 'jq_150131', name: '20150131 SNH48第一届年度金曲大赏演唱会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256739563_20150131.jpg',
-        date: '2015.01.31', synopsis: '',
+        date: '2015.01.31', synopsis: '表演歌曲:\n\nUNIT \n黄婷婷 / 董艳芸 / 龚诗淇 / 何晓玉 / 林思意 / 唐安琪《仙人掌与淘金热》\n黄婷婷 / 万丽娜 / 龚诗淇《初恋你好》\n黄婷婷《夜蝶》\n\n多人 \n《因为喜欢你》、《告白趁现在》、《To Be Continued》、《二期生首推之歌》、《星梦之光》',
         fullVideo: [{ label: 'B站 - 全场', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1UK411u7wA', url: 'https://www.bilibili.com/video/BV1UK411u7wA' }],
         downloads: []
       }
@@ -75,19 +75,19 @@ window.groupVideoData = {
     { title: '演唱会', items: [
       {
         id: 'ych_190324', name: '20190324 《SYNESTHESIA》 生日会 助演', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792424400807_20190324.jpg',
-        date: '2019.03.24', synopsis: '表演歌曲：\n\n多人《》',
+        date: '2019.03.24', synopsis: '',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV16b41147EM', url: 'https://www.bilibili.com/video/BV16b41147EM' }],
         downloads: []
       },
       {
         id: 'ych_180908', name: '20180908 黄婷婷《光》 2018生日会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256739926_20180908.jpg',
-        date: '2018.09.08', synopsis: '表演歌曲：\n\nSOLO《》\n\n多人《》',
+        date: '2018.09.08', synopsis: '',
         fullVideo: [{ label: 'B站 - 完整版', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1tW411o7HG', url: 'https://www.bilibili.com/video/BV1tW411o7HG' }],
         downloads: []
       },
       {
         id: 'ych_180630', name: '20180630 SNH48第五届总选预热演唱会 成都站', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256737736_20180630.jpg',
-        date: '2018.06.30', synopsis: '表演歌曲：\n\nUnit《曲终人散》\n\n多人《以爱之名》、《前所未有》、《因为喜欢你》、《勇敢的心》、《女王殿下》、《To Be Continued》、《摩天楼的距离》、《光之轨迹》、《未完成少女》、《梦想纸飞机》',
+        date: '2018.06.30', synopsis: '',
         fullVideo: [{ label: 'B站 - 单人CUT', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV16s41157Dg', url: 'https://www.bilibili.com/video/BV16s41157Dg' }],
         downloads: []
       },
@@ -99,7 +99,7 @@ window.groupVideoData = {
       },
       {
         id: 'ych_170908', name: '20170908 黄婷婷《黑夜女神》 2017生日会', poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_other/1792256743815_20170908.jpg',
-        date: '2017.09.08', synopsis: '表演歌曲：\n\nSOLO《》\n\n多人《》',
+        date: '2017.09.08', synopsis: '',
         fullVideo: [{ label: 'B站 - 完整版', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1Gx41147Gg', url: 'https://www.bilibili.com/video/BV1Gx41147Gg' }],
         downloads: []
       },
