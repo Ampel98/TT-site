@@ -3,7 +3,7 @@ window.stageData = {
     {
       id: 'stage_tbwd',
       name: '贴吧问答 合集',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793954342827_tbwd.jpg',
+      poster: 'https://i.postimg.cc/nV58SXTz/tbwd.jpg',
       date: '',
       team: '',
       synopsis: '',
@@ -16,7 +16,7 @@ window.stageData = {
     {
       id: 'stage_lch',
       name: '冷餐会 合集',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793954346760_lch.jpg',
+      poster: 'https://i.postimg.cc/2jJp91T8/lch.jpg',
       date: '',
       team: '',
       synopsis: '',
@@ -31,7 +31,7 @@ window.stageData = {
     {
       id: 'stage_191013',
       name: '20191013 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716238217_191013.jpg',
+      poster: 'https://i.postimg.cc/tRf0vsDR/191013.jpg',
       date: '2019.10.13',
       team: '',
       synopsis: '',
@@ -44,7 +44,7 @@ window.stageData = {
     {
       id: 'stage_190621',
       name: '20190621 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716229538_190621.jpg',
+      poster: 'https://i.postimg.cc/KcVXp1QG/190621.jpg',
       date: '2019.06.21',
       team: '',
       synopsis: '',
@@ -57,7 +57,7 @@ window.stageData = {
     {
       id: 'stage_190615',
       name: '20190615 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716237512_190615.jpg',
+      poster: 'https://i.postimg.cc/MZ4k3ntW/190615.jpg',
       date: '2019.06.15',
       team: '',
       synopsis: '',
@@ -70,7 +70,7 @@ window.stageData = {
     {
       id: 'stage_190609',
       name: '20190609 时之卷 北京巡演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716231782_190609.jpg',
+      poster: 'https://i.postimg.cc/WpKRYdST/190609.jpg',
       date: '2019.06.09',
       team: '',
       synopsis: '北京巡演',
@@ -83,7 +83,7 @@ window.stageData = {
     {
       id: 'stage_190512',
       name: '20190512 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716232557_190512.jpg',
+      poster: 'https://i.postimg.cc/NGVhCKbc/190512.jpg',
       date: '2019.05.12',
       team: '',
       synopsis: '',
@@ -96,7 +96,7 @@ window.stageData = {
     {
       id: 'stage_190511',
       name: '20190511 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716236651_190511.jpg',
+      poster: 'https://i.postimg.cc/RC8rpWGz/190511.jpg',
       date: '2019.05.11',
       team: '',
       synopsis: '',
@@ -109,7 +109,7 @@ window.stageData = {
     {
       id: 'stage_190510',
       name: '20190510 时之卷',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716227582_190510.jpg',
+      poster: 'https://i.postimg.cc/9XS3gD12/190510.jpg',
       date: '2019.05.10',
       team: '',
       synopsis: '',
@@ -122,7 +122,7 @@ window.stageData = {
     {
       id: 'stage_190504',
       name: '20190504 N.E.W',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716229237_190504.jpg',
+      poster: 'https://i.postimg.cc/wxPK41FK/190504.jpg',
       date: '2019.05.04',
       team: '',
       synopsis: '',
@@ -135,7 +135,7 @@ window.stageData = {
     {
       id: 'stage_190405',
       name: '20190405 N.E.W',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716234734_190405.jpg',
+      poster: 'https://i.postimg.cc/7Pcvt59p/190405.jpg',
       date: '2019.04.05',
       team: '',
       synopsis: '',
@@ -148,7 +148,7 @@ window.stageData = {
     {
       id: 'stage_190315',
       name: '20190315 N.E.W',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716232928_190315.jpg',
+      poster: 'https://i.postimg.cc/kMZrY2sL/190315.jpg',
       date: '2019.03.15',
       team: '',
       synopsis: '',
@@ -161,7 +161,7 @@ window.stageData = {
     {
       id: 'stage_190310',
       name: '20190310 N.E.W',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716229822_190310.jpg',
+      poster: 'https://i.postimg.cc/SQ501nd3/190310.jpg',
       date: '2019.03.10',
       team: '',
       synopsis: '',
@@ -174,7 +174,7 @@ window.stageData = {
     {
       id: 'stage_190306',
       name: '20190306 N.E.W',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716230617_190306.jpg',
+      poster: 'https://i.postimg.cc/wMnS1r3F/190306.jpg',
       date: '2019.03.06',
       team: '',
       synopsis: '',
@@ -187,7 +187,7 @@ window.stageData = {
     {
       id: 'stage_190127',
       name: '20190127 新春特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716226814_190127.jpg',
+      poster: 'https://i.postimg.cc/1XbL8d4H/190127.jpg',
       date: '2019.01.27',
       team: '',
       synopsis: '新春特别公演',
@@ -201,7 +201,7 @@ window.stageData = {
     {
       id: 'stage_181002',
       name: '20181002 TOP16宣你汇报公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716224557_181002.jpg',
+      poster: 'https://i.postimg.cc/7hjp5RbN/181002.jpg',
       date: '2018.10.02',
       team: '',
       synopsis: 'TOP16宣你汇报公演',
@@ -215,7 +215,7 @@ window.stageData = {
     {
       id: 'stage_180722',
       name: '20180722 N·Fly巡演曲目特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716232414_180722.jpg',
+      poster: 'https://i.postimg.cc/hvNHXYh1/180722.jpg',
       date: '2018.07.22',
       team: '',
       synopsis: 'N·Fly巡演曲目特别公演',
@@ -228,7 +228,7 @@ window.stageData = {
     {
       id: 'stage_180715',
       name: '20180715 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716231834_180715.jpg',
+      poster: 'https://i.postimg.cc/KjCd1W47/180715.jpg',
       date: '2018.07.15',
       team: '',
       synopsis: '',
@@ -241,7 +241,7 @@ window.stageData = {
     {
       id: 'stage_180708',
       name: '20180708 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716233535_180708.jpg',
+      poster: 'https://i.postimg.cc/vTCp4KDW/180708.jpg',
       date: '2018.07.08',
       team: '',
       synopsis: '',
@@ -254,7 +254,7 @@ window.stageData = {
     {
       id: 'stage_180707',
       name: '20180707 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716225986_180707.jpg',
+      poster: 'https://i.postimg.cc/QCvRFzV1/180707.jpg',
       date: '2018.07.07',
       team: '',
       synopsis: '',
@@ -267,7 +267,7 @@ window.stageData = {
     {
       id: 'stage_180624',
       name: '20180624 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716228696_180624.jpg',
+      poster: 'https://i.postimg.cc/vTCp4KD9/180624.jpg',
       date: '2018.06.24',
       team: '',
       synopsis: '',
@@ -280,7 +280,7 @@ window.stageData = {
     {
       id: 'stage_180519',
       name: '20180519 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716224577_180519.jpg',
+      poster: 'https://i.postimg.cc/qqW9NFgK/180519.jpg',
       date: '2018.05.19',
       team: '',
       synopsis: '',
@@ -293,7 +293,7 @@ window.stageData = {
     {
       id: 'stage_180511',
       name: '20180511 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716231285_180511.jpg',
+      poster: 'https://i.postimg.cc/1XbL8d4q/180511.jpg',
       date: '2018.05.11',
       team: '',
       synopsis: '',
@@ -306,7 +306,7 @@ window.stageData = {
     {
       id: 'stage_180506',
       name: '20180506 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716228981_180506.jpg',
+      poster: 'https://i.postimg.cc/cCPVvz68/180506.jpg',
       date: '2018.05.06',
       team: '',
       synopsis: '',
@@ -319,7 +319,7 @@ window.stageData = {
     {
       id: 'stage_180427',
       name: '20180427 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716224807_180427.jpg',
+      poster: 'https://i.postimg.cc/Y0TJvPjL/180427.jpg',
       date: '2018.04.27',
       team: '',
       synopsis: '',
@@ -332,7 +332,7 @@ window.stageData = {
     {
       id: 'stage_180418',
       name: '20180418 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716228589_180418.jpg',
+      poster: 'https://i.postimg.cc/br4KZ5dD/180418.jpg',
       date: '2018.04.18',
       team: '',
       synopsis: '',
@@ -345,7 +345,7 @@ window.stageData = {
     {
       id: 'stage_180414',
       name: '20180414 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716230192_180414.jpg',
+      poster: 'https://i.postimg.cc/7hjp5Rb5/180414.jpg',
       date: '2018.04.14',
       team: '',
       synopsis: '',
@@ -358,7 +358,7 @@ window.stageData = {
     {
       id: 'stage_180411',
       name: '20180411 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716229389_180411.jpg',
+      poster: 'https://i.postimg.cc/0jhLz4rb/180411.jpg',
       date: '2018.04.11',
       team: '',
       synopsis: '',
@@ -371,7 +371,7 @@ window.stageData = {
     {
       id: 'stage_180405',
       name: '20180405 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716219964_180405.jpg',
+      poster: 'https://i.postimg.cc/QCvRFzVV/180405.jpg',
       date: '2018.04.05',
       team: '',
       synopsis: '',
@@ -384,7 +384,7 @@ window.stageData = {
     {
       id: 'stage_180315',
       name: '20180315 48的N次方特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716222886_180315.jpg',
+      poster: 'https://i.postimg.cc/L5GrJWh5/180315.jpg',
       date: '2018.03.15',
       team: '',
       synopsis: '48的N次方特别公演',
@@ -397,7 +397,7 @@ window.stageData = {
     {
       id: 'stage_180310',
       name: '20180310 48的N次方特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716221249_180310.jpg',
+      poster: 'https://i.postimg.cc/1XbL8d45/180310.jpg',
       date: '2018.03.10',
       team: '',
       synopsis: '48的N次方特别公演',
@@ -410,7 +410,7 @@ window.stageData = {
     {
       id: 'stage_180304',
       name: '20180304 忆往昔特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793954350159_180304.jpg',
+      poster: 'https://i.postimg.cc/90svDkzm/180304.jpg',
       date: '2018.03.04',
       team: '',
       synopsis: '忆往昔特别公演',
@@ -424,7 +424,7 @@ window.stageData = {
     {
       id: 'stage_180210',
       name: '20180210 春晚主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716225313_180210.jpg',
+      poster: 'https://i.postimg.cc/4yjrY0nJ/180210.jpg',
       date: '2018.02.10',
       team: '',
       synopsis: '春晚主题公演',
@@ -438,7 +438,7 @@ window.stageData = {
     {
       id: 'stage_180121',
       name: '20180121 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716218382_180121.jpg',
+      poster: 'https://i.postimg.cc/L5GrJWhm/180121.jpg',
       date: '2018.01.21',
       team: '',
       synopsis: '',
@@ -451,7 +451,7 @@ window.stageData = {
     {
       id: 'stage_180113',
       name: '20180113 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716219061_180113.jpg',
+      poster: 'https://i.postimg.cc/0jhLz4rP/180113.jpg',
       date: '2018.01.13',
       team: '',
       synopsis: '',
@@ -464,7 +464,7 @@ window.stageData = {
     {
       id: 'stage_180107',
       name: '20180107 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716225517_180107.jpg',
+      poster: 'https://i.postimg.cc/wM1CTzx7/180107.jpg',
       date: '2018.01.07',
       team: '',
       synopsis: '',
@@ -477,7 +477,7 @@ window.stageData = {
     {
       id: 'stage_180106',
       name: '20180106 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716222987_180106.jpg',
+      poster: 'https://i.postimg.cc/D0S9yhfZ/180106.jpg',
       date: '2018.01.06',
       team: '',
       synopsis: '',
@@ -490,7 +490,7 @@ window.stageData = {
         {
       id: 'stage_171221',
       name: '20171221 以爱之名',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716225970_171221.jpg',
+      poster: 'https://i.postimg.cc/L5Jc6S4s/171221.jpg',
       date: '2017.12.21',
       team: '',
       synopsis: '',
@@ -503,7 +503,7 @@ window.stageData = {
     {
       id: 'stage_171115',
       name: '20171115 N队成立四周年特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716224712_171115.jpg',
+      poster: 'https://i.postimg.cc/zvysXNDX/171115.jpg',
       date: '2017.11.15',
       team: '',
       synopsis: '',
@@ -516,7 +516,7 @@ window.stageData = {
     {
       id: 'stage_171008',
       name: '20171008 以爱之名 首演第二场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716217527_171008.jpg',
+      poster: 'https://i.postimg.cc/brZ7NPYY/171008.jpg',
       date: '2017.10.08',
       team: '',
       synopsis: '首演第二场',
@@ -530,7 +530,7 @@ window.stageData = {
     {
       id: 'stage_171007',
       name: '20171007 以爱之名 首演第一场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716220667_171007.jpg',
+      poster: 'https://i.postimg.cc/6q8k5K6W/171007.jpg',
       date: '2017.10.07',
       team: '',
       synopsis: '首演第一场',
@@ -544,7 +544,7 @@ window.stageData = {
     {
       id: 'stage_170916',
       name: '20170916 专属派对 千秋乐',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716223272_170916.jpg',
+      poster: 'https://i.postimg.cc/2y1s8YjC/170916.jpg',
       date: '2017.09.16',
       team: '',
       synopsis: '千秋乐',
@@ -557,7 +557,7 @@ window.stageData = {
     {
       id: 'stage_170910',
       name: '20170910 剧场四周年特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716216878_170910.jpg',
+      poster: 'https://i.postimg.cc/BbjrQ3Zs/170910.jpg',
       date: '2017.09.10',
       team: '',
       synopsis: '剧场四周年特别公演',
@@ -571,7 +571,7 @@ window.stageData = {
     {
       id: 'stage_170617',
       name: '20170617 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716216176_170617.jpg',
+      poster: 'https://i.postimg.cc/7h5FY4P4/170617.jpg',
       date: '2017.06.17',
       team: '',
       synopsis: '',
@@ -584,7 +584,7 @@ window.stageData = {
     {
       id: 'stage_170504',
       name: '20170504 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716215562_170504.jpg',
+      poster: 'https://i.postimg.cc/j2DpdTqY/170504.jpg',
       date: '2017.05.04',
       team: '',
       synopsis: '',
@@ -597,7 +597,7 @@ window.stageData = {
     {
       id: 'stage_170422',
       name: '20170422 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716217881_170422.jpg',
+      poster: 'https://i.postimg.cc/2y1s8Yks/170422.jpg',
       date: '2017.04.22',
       team: '',
       synopsis: '',
@@ -610,7 +610,7 @@ window.stageData = {
     {
       id: 'stage_170416',
       name: '20170416 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716218487_170416.jpg',
+      poster: 'https://i.postimg.cc/MHnCKw6N/170416.jpg',
       date: '2017.04.16',
       team: '',
       synopsis: '',
@@ -623,7 +623,7 @@ window.stageData = {
     {
       id: 'stage_170325',
       name: '20170325 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716217135_170325.jpg',
+      poster: 'https://i.postimg.cc/D0S9yhvN/170325.jpg',
       date: '2017.03.25',
       team: '',
       synopsis: '',
@@ -636,7 +636,7 @@ window.stageData = {
     {
       id: 'stage_170305',
       name: '20170305 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716222640_170305.jpg',
+      poster: 'https://i.postimg.cc/6q8k5KWb/170305.jpg',
       date: '2017.03.05',
       team: '',
       synopsis: '',
@@ -649,7 +649,7 @@ window.stageData = {
     {
       id: 'stage_170304',
       name: '20170304 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716213022_170304.jpg',
+      poster: 'https://i.postimg.cc/tJsKCbqr/170304.jpg',
       date: '2017.03.04',
       team: '',
       synopsis: '',
@@ -662,7 +662,7 @@ window.stageData = {
     {
       id: 'stage_170226',
       name: '20170226 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716218600_170226.jpg',
+      poster: 'https://i.postimg.cc/NFK3ftsd/170226.jpg',
       date: '2017.02.26',
       team: '',
       synopsis: '',
@@ -675,7 +675,7 @@ window.stageData = {
     {
       id: 'stage_170225',
       name: '20170225 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793718886682_170225.jpg',
+      poster: 'https://i.postimg.cc/76tvkhkj/170225.jpg',
       date: '2017.02.25',
       team: '',
       synopsis: '',
@@ -688,7 +688,7 @@ window.stageData = {
     {
       id: 'stage_170218',
       name: '20170218 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716214943_170218.jpg',
+      poster: 'https://i.postimg.cc/50KcVyVT/170218.jpg',
       date: '2017.02.18',
       team: '',
       synopsis: '',
@@ -701,7 +701,7 @@ window.stageData = {
     {
       id: 'stage_170121',
       name: '20170121 SNH48辞旧迎新联合公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716216534_170121.jpg',
+      poster: 'https://i.postimg.cc/tTv0jJjf/170121.jpg',
       date: '2017.01.21',
       team: '',
       synopsis: 'S、N、H、X、XII五队联合公演',
@@ -715,7 +715,7 @@ window.stageData = {
         {
       id: 'stage_161218',
       name: '20161218 专属派对 VCR',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716216550_161218.jpg',
+      poster: 'https://i.postimg.cc/Y9DcH0Hs/161218.jpg',
       date: '2016.12.18',
       team: '',
       synopsis: '',
@@ -728,7 +728,7 @@ window.stageData = {
     {
       id: 'stage_161204',
       name: '20161204 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716214204_161204.jpg',
+      poster: 'https://i.postimg.cc/pTcNHrHc/161204.jpg',
       date: '2016.12.04',
       team: '',
       synopsis: '',
@@ -741,7 +741,7 @@ window.stageData = {
     {
       id: 'stage_161123',
       name: '20161123 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716220163_161123.jpg',
+      poster: 'https://i.postimg.cc/RFprBhBb/161123.jpg',
       date: '2016.11.23',
       team: '',
       synopsis: '',
@@ -754,7 +754,7 @@ window.stageData = {
     {
       id: 'stage_161113',
       name: '20161113 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716211729_161113.jpg',
+      poster: 'https://i.postimg.cc/nzS8JrJ0/161113.jpg',
       date: '2016.11.13',
       team: '',
       synopsis: '',
@@ -767,7 +767,7 @@ window.stageData = {
     {
       id: 'stage_161027',
       name: '20161027 专属派对 北京巡演第二场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716212230_161027.jpg',
+      poster: 'https://i.postimg.cc/FRCt4z4G/161027.jpg',
       date: '2016.10.27',
       team: '',
       synopsis: '北京巡演第二场',
@@ -781,7 +781,7 @@ window.stageData = {
     {
       id: 'stage_161026',
       name: '20161026 专属派对 北京巡演第一场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716215444_161026.jpg',
+      poster: 'https://i.postimg.cc/TwN86160/161026.jpg',
       date: '2016.10.26',
       team: '',
       synopsis: '北京巡演第一场',
@@ -795,7 +795,7 @@ window.stageData = {
     {
       id: 'stage_161022',
       name: '20161022 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716211726_161022.jpg',
+      poster: 'https://i.postimg.cc/ZRskSnSc/161022.jpg',
       date: '2016.10.22',
       team: '',
       synopsis: '',
@@ -808,7 +808,7 @@ window.stageData = {
     {
       id: 'stage_161021',
       name: '20161021 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716210376_161021.jpg',
+      poster: 'https://i.postimg.cc/pTcNHrHJ/161021.jpg',
       date: '2016.10.21',
       team: '',
       synopsis: '',
@@ -821,7 +821,7 @@ window.stageData = {
     {
       id: 'stage_161015',
       name: '20161015 专属派对 HTT生日公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716212744_161015.jpg',
+      poster: 'https://i.postimg.cc/qRDfTqTc/161015.jpg',
       date: '2016.10.15',
       team: '',
       synopsis: 'HTT生日公演',
@@ -836,7 +836,7 @@ window.stageData = {
     {
       id: 'stage_161006',
       name: '20161006 top16上海巡演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716213841_161006.jpg',
+      poster: 'https://i.postimg.cc/FRCt4z4y/161006.jpg',
       date: '2016.10.06',
       team: '',
       synopsis: 'top16上海巡演',
@@ -850,7 +850,7 @@ window.stageData = {
     {
       id: 'stage_161005',
       name: '20161005 top16广州巡演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716217251_161005.jpg',
+      poster: 'https://i.postimg.cc/85X8ScSL/161005.jpg',
       date: '2016.10.05',
       team: '',
       synopsis: 'top16广州巡演',
@@ -864,7 +864,7 @@ window.stageData = {
     {
       id: 'stage_161004',
       name: '20161004 top16北京巡演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716213914_161004.jpg',
+      poster: 'https://i.postimg.cc/B67W0b0H/161004.jpg',
       date: '2016.10.04',
       team: '',
       synopsis: 'top16北京巡演',
@@ -878,7 +878,7 @@ window.stageData = {
     {
       id: 'stage_160916',
       name: '20160916 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716217188_160916.jpg',
+      poster: 'https://i.postimg.cc/9Mg3h0hT/160916.jpg',
       date: '2016.09.16',
       team: '',
       synopsis: '',
@@ -891,7 +891,7 @@ window.stageData = {
     {
       id: 'stage_160915',
       name: '20160915 中秋特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716209780_160915.jpg',
+      poster: 'https://i.postimg.cc/d1NMY3YT/160915.jpg',
       date: '2016.09.15',
       team: '',
       synopsis: '中秋特别公演',
@@ -905,7 +905,7 @@ window.stageData = {
     {
       id: 'stage_160910',
       name: '20160910 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716215770_160910.jpg',
+      poster: 'https://i.postimg.cc/zB2mrvrH/160910.jpg',
       date: '2016.09.10',
       team: '',
       synopsis: '',
@@ -918,7 +918,7 @@ window.stageData = {
     {
       id: 'stage_160908',
       name: '20160908 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716211965_160908.jpg',
+      poster: 'https://i.postimg.cc/HxvGgngc/160908.jpg',
       date: '2016.09.08',
       team: '',
       synopsis: '',
@@ -931,7 +931,7 @@ window.stageData = {
     {
       id: 'stage_160806',
       name: '20160806 专属派对',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716215665_160806.jpg',
+      poster: 'https://i.postimg.cc/vB2RsTs1/160806.jpg',
       date: '2016.08.06',
       team: '',
       synopsis: '',
@@ -944,7 +944,7 @@ window.stageData = {
     {
       id: 'stage_160723',
       name: '20160723 专属派对 首演第二场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716210769_160723.jpg',
+      poster: 'https://i.postimg.cc/d1VMpdzm/160723.jpg',
       date: '2016.07.23',
       team: '',
       synopsis: '首演第二场',
@@ -957,7 +957,7 @@ window.stageData = {
     {
       id: 'stage_160722',
       name: '20160722 专属派对 首演第一场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716214925_160722.jpg',
+      poster: 'https://i.postimg.cc/QtdLw5RJ/160722.jpg',
       date: '2016.07.22',
       team: '',
       synopsis: '首演第一场',
@@ -970,7 +970,7 @@ window.stageData = {
     {
       id: 'stage_160716',
       name: '20160716 十八个闪耀瞬间 千秋乐',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716213552_160716.jpg',
+      poster: 'https://i.postimg.cc/G2m0VYZP/160716.jpg',
       date: '2016.07.16',
       team: '',
       synopsis: '千秋乐',
@@ -983,7 +983,7 @@ window.stageData = {
     {
       id: 'stage_160709',
       name: '20160709 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716211568_160709.jpg',
+      poster: 'https://i.postimg.cc/Ssx038w6/160709.jpg',
       date: '2016.07.09',
       team: '',
       synopsis: '',
@@ -996,7 +996,7 @@ window.stageData = {
     {
       id: 'stage_160625',
       name: '20160625 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716207813_160625.jpg',
+      poster: 'https://i.postimg.cc/bJwXWbKQ/160625.jpg',
       date: '2016.06.25',
       team: '',
       synopsis: '',
@@ -1009,7 +1009,7 @@ window.stageData = {
     {
       id: 'stage_160616',
       name: '20160616 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716205108_160616.jpg',
+      poster: 'https://i.postimg.cc/pTLN48gK/160616.jpg',
       date: '2016.06.16',
       team: '',
       synopsis: '',
@@ -1022,7 +1022,7 @@ window.stageData = {
     {
       id: 'stage_160611',
       name: '20160611 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716209461_160611.jpg',
+      poster: 'https://i.postimg.cc/4dxCqtrV/160611.jpg',
       date: '2016.06.11',
       team: '',
       synopsis: '',
@@ -1035,7 +1035,7 @@ window.stageData = {
     {
       id: 'stage_160604',
       name: '20160604 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716212937_160604.jpg',
+      poster: 'https://i.postimg.cc/0QygFmLw/160604.jpg',
       date: '2016.06.04',
       team: '',
       synopsis: '',
@@ -1048,7 +1048,7 @@ window.stageData = {
     {
       id: 'stage_160601',
       name: '20160601 “比翼齐飞”SNH48第三届偶像年度人气总决选启动仪式',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716206216_160601.jpg',
+      poster: 'https://i.postimg.cc/bJwXWbK2/160601.jpg',
       date: '2016.06.01',
       team: '',
       synopsis: '',
@@ -1061,7 +1061,7 @@ window.stageData = {
     {
       id: 'stage_160529',
       name: '20160529 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716212347_160529.jpg',
+      poster: 'https://i.postimg.cc/d1VMpdzZ/160529.jpg',
       date: '2016.05.29',
       team: '',
       synopsis: '',
@@ -1074,7 +1074,7 @@ window.stageData = {
     {
       id: 'stage_160521',
       name: '20160521 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716209565_160521.jpg',
+      poster: 'https://i.postimg.cc/0QygFmLz/160521.jpg',
       date: '2016.05.21',
       team: '',
       synopsis: '',
@@ -1087,7 +1087,7 @@ window.stageData = {
     {
       id: 'stage_160502',
       name: '20160502 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716203216_160502.jpg',
+      poster: 'https://i.postimg.cc/HxkGR5fc/160502.jpg',
       date: '2016.05.02',
       team: '',
       synopsis: '',
@@ -1100,7 +1100,7 @@ window.stageData = {
     {
       id: 'stage_160501',
       name: '20160501 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716207250_160501.jpg',
+      poster: 'https://i.postimg.cc/gJ29QRfn/160501.jpg',
       date: '2016.05.01',
       team: '',
       synopsis: '',
@@ -1113,7 +1113,7 @@ window.stageData = {
     {
       id: 'stage_160423',
       name: '20160423 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716207216_160423.jpg',
+      poster: 'https://i.postimg.cc/Px5G9ZBN/160423.jpg',
       date: '2016.04.23',
       team: '',
       synopsis: '',
@@ -1126,7 +1126,7 @@ window.stageData = {
     {
       id: 'stage_160416',
       name: '20160416 十八个闪耀瞬间 东芝特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716202899_160416.jpg',
+      poster: 'https://i.postimg.cc/NMjhSTWF/160416.jpg',
       date: '2016.04.16',
       team: '',
       synopsis: '东芝特别公演',
@@ -1140,7 +1140,7 @@ window.stageData = {
     {
       id: 'stage_160308',
       name: '20160308 十八个闪耀瞬间 祈福特别公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716201340_160308.jpg',
+      poster: 'https://i.postimg.cc/mDgxJM0D/160308.jpg',
       date: '2016.03.08',
       team: '',
       synopsis: '祈福特别公演',
@@ -1154,7 +1154,7 @@ window.stageData = {
     {
       id: 'stage_160306',
       name: '20160306 十八个闪耀瞬间 女性专场-男装公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716203300_160306.jpg',
+      poster: 'https://i.postimg.cc/63psgRD5/160306.jpg',
       date: '2016.03.06',
       team: '',
       synopsis: '女性专场-男装公演',
@@ -1168,7 +1168,7 @@ window.stageData = {
     {
       id: 'stage_160228',
       name: '20160228 十八个闪耀瞬间',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716202636_160228.jpg',
+      poster: 'https://i.postimg.cc/Px5G9ZBf/160228.jpg',
       date: '2016.02.28',
       team: '',
       synopsis: '',
@@ -1181,7 +1181,7 @@ window.stageData = {
     {
       id: 'stage_160117',
       name: '20160117 十八个闪耀瞬间 首演第三场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716203573_160117.jpg',
+      poster: 'https://i.postimg.cc/W31RCrQN/160117.jpg',
       date: '2016.01.17',
       team: '',
       synopsis: '首演第三场',
@@ -1194,7 +1194,7 @@ window.stageData = {
     {
       id: 'stage_160110',
       name: '20160110 我的太阳 千秋乐',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716207396_160110.jpg',
+      poster: 'https://i.postimg.cc/rmw63Wv8/160110.jpg',
       date: '2016.01.10',
       team: '',
       synopsis: '千秋乐',
@@ -1207,7 +1207,7 @@ window.stageData = {
     {
       id: 'stage_160102',
       name: '20160102 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716201949_160102.jpg',
+      poster: 'https://i.postimg.cc/0QygFmLx/160102.jpg',
       date: '2016.01.02',
       team: '',
       synopsis: '',
@@ -1220,7 +1220,7 @@ window.stageData = {
     {
       id: 'stage_151231',
       name: '20151231 跨年特别公演 VCR',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716109465_151231.jpg',
+      poster: 'https://i.postimg.cc/d1VMpdzw/151231.jpg',
       date: '2015.12.31',
       team: '',
       synopsis: '',
@@ -1233,7 +1233,7 @@ window.stageData = {
     {
       id: 'stage_151220',
       name: '20151220 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716109788_151220.jpg',
+      poster: 'https://i.postimg.cc/sXgFqStz/151220.jpg',
       date: '2015.12.20',
       team: '',
       synopsis: '',
@@ -1246,7 +1246,7 @@ window.stageData = {
     {
       id: 'stage_151219_2',
       name: '20151219 让梦想闪耀 国民美少女“w”手势告白',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716103910_151219_2.jpg',
+      poster: 'https://i.postimg.cc/nzh8g76J/151219-2.jpg',
       date: '2015.12.19',
       team: '',
       synopsis: '',
@@ -1259,7 +1259,7 @@ window.stageData = {
     {
       id: 'stage_151219_1',
       name: '20151219 我的太阳 圣诞主题公演/HTT两百场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716105264_151219_1.jpg',
+      poster: 'https://i.postimg.cc/hGrW2M3t/151219-1.jpg',
       date: '2015.12.19',
       team: '',
       synopsis: '圣诞主题公演/HTT两百场',
@@ -1272,7 +1272,7 @@ window.stageData = {
     {
       id: 'stage_151213',
       name: '20151213 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716108277_151213.jpg',
+      poster: 'https://i.postimg.cc/ZqctwjDK/151213.jpg',
       date: '2015.12.13',
       team: '',
       synopsis: '',
@@ -1285,7 +1285,7 @@ window.stageData = {
     {
       id: 'stage_151210',
       name: '20151210 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716107024_151210.jpg',
+      poster: 'https://i.postimg.cc/9fp5L1NX/151210.jpg',
       date: '2015.12.10',
       team: '',
       synopsis: '',
@@ -1298,7 +1298,7 @@ window.stageData = {
     {
       id: 'stage_151129',
       name: '20151129 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716104961_151129.jpg',
+      poster: 'https://i.postimg.cc/wBV8wFbq/151129.jpg',
       date: '2015.11.29',
       team: '',
       synopsis: '',
@@ -1311,7 +1311,7 @@ window.stageData = {
     {
       id: 'stage_151128',
       name: '20151128 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716109325_151128.jpg',
+      poster: 'https://i.postimg.cc/W4nL5SfV/151128.jpg',
       date: '2015.11.28',
       team: '',
       synopsis: '',
@@ -1324,7 +1324,7 @@ window.stageData = {
     {
       id: 'stage_151120',
       name: '20151120 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102696_151120.jpg',
+      poster: 'https://i.postimg.cc/W4nL5Sfv/151120.jpg',
       date: '2015.11.20',
       team: '',
       synopsis: '',
@@ -1337,7 +1337,7 @@ window.stageData = {
     {
       id: 'stage_151115',
       name: '20151115 我的太阳 N队成立两周年纪念公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716109148_151115.jpg',
+      poster: 'https://i.postimg.cc/0NfRVZHq/151115.jpg',
       date: '2015.11.15',
       team: '',
       synopsis: 'N队成立两周年纪念公演',
@@ -1350,7 +1350,7 @@ window.stageData = {
     {
       id: 'stage_151101',
       name: '20151101 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101754_151101.jpg',
+      poster: 'https://i.postimg.cc/Bvg9mNwf/151101.jpg',
       date: '2015.11.01',
       team: '',
       synopsis: '',
@@ -1363,7 +1363,7 @@ window.stageData = {
     {
       id: 'stage_151025',
       name: '20151025 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102598_151025.jpg',
+      poster: 'https://i.postimg.cc/25wR0TXp/151025.jpg',
       date: '2015.10.25',
       team: '',
       synopsis: '',
@@ -1376,7 +1376,7 @@ window.stageData = {
     {
       id: 'stage_151024',
       name: '20151024 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716106711_151024.jpg',
+      poster: 'https://i.postimg.cc/435kWw2j/151024.jpg',
       date: '2015.10.24',
       team: '',
       synopsis: '',
@@ -1389,7 +1389,7 @@ window.stageData = {
     {
       id: 'stage_151016',
       name: '20151016 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101009_151016.jpg',
+      poster: 'https://i.postimg.cc/s2cdTKHq/151016.jpg',
       date: '2015.10.16',
       team: '',
       synopsis: '',
@@ -1402,7 +1402,7 @@ window.stageData = {
     {
       id: 'stage_151014',
       name: '20151014 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101040_151014.jpg',
+      poster: 'https://i.postimg.cc/9fp5L1gS/151014.jpg',
       date: '2015.10.14',
       team: '',
       synopsis: '',
@@ -1415,7 +1415,7 @@ window.stageData = {
     {
       id: 'stage_151004',
       name: '20151004 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716103418_151004.jpg',
+      poster: 'https://i.postimg.cc/zfjZxp2Q/151004.jpg',
       date: '2015.10.04',
       team: '',
       synopsis: '',
@@ -1428,7 +1428,7 @@ window.stageData = {
     {
       id: 'stage_151003',
       name: '20151003 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101433_151003.jpg',
+      poster: 'https://i.postimg.cc/hGrW2MZ3/151003.jpg',
       date: '2015.10.03',
       team: '',
       synopsis: '',
@@ -1441,7 +1441,7 @@ window.stageData = {
     {
       id: 'stage_151002',
       name: '20151002 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716099274_151002.jpg',
+      poster: 'https://i.postimg.cc/6Q0JMzbm/151002.jpg',
       date: '2015.10.02',
       team: '',
       synopsis: '',
@@ -1454,7 +1454,7 @@ window.stageData = {
     {
       id: 'stage_150926_2',
       name: '20150926 东芝特别公演 晚场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101269_150926_2.jpg',
+      poster: 'https://i.postimg.cc/8CHQZwXy/150926-2.jpg',
       date: '2015.09.26',
       team: '',
       synopsis: 'S队',
@@ -1467,7 +1467,7 @@ window.stageData = {
     {
       id: 'stage_150926_1',
       name: '20150926 我的太阳 东芝特别公演 午场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716098642_150926_1.jpg',
+      poster: 'https://i.postimg.cc/d0BP5nN5/150926-1.jpg',
       date: '2015.09.26',
       team: '',
       synopsis: 'N队',
@@ -1480,7 +1480,7 @@ window.stageData = {
     {
       id: 'stage_150920',
       name: '20150920 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102895_150920.jpg',
+      poster: 'https://i.postimg.cc/wBV8wF4F/150920.jpg',
       date: '2015.09.20',
       team: '',
       synopsis: '',
@@ -1493,7 +1493,7 @@ window.stageData = {
     {
       id: 'stage_150917',
       name: '20150917 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102982_150917.jpg',
+      poster: 'https://i.postimg.cc/g0DFg4tD/150917.jpg',
       date: '2015.09.17',
       team: '',
       synopsis: '',
@@ -1506,7 +1506,7 @@ window.stageData = {
     {
       id: 'stage_150913_2',
       name: '20150913 剧场两周年纪念联合公演（晚场）',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716099747_150913_2.jpg',
+      poster: 'https://i.postimg.cc/k5c3TwYy/150913-2.jpg',
       date: '2015.09.13',
       team: '',
       synopsis: '剧场两周年纪念联合公演（晚场）',
@@ -1519,7 +1519,7 @@ window.stageData = {
     {
       id: 'stage_150913_1',
       name: '20150913 剧场两周年纪念联合公演（午场）',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716096891_150913_1.jpg',
+      poster: 'https://i.postimg.cc/9fp5L1gY/150913-1.jpg',
       date: '2015.09.13',
       team: '',
       synopsis: '剧场两周年纪念联合公演（午场）',
@@ -1532,7 +1532,7 @@ window.stageData = {
     {
       id: 'stage_150912',
       name: '20150912 我的太阳 HTT生日公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716098157_150912.jpg',
+      poster: 'https://i.postimg.cc/FKmXbwpq/150912.jpg',
       date: '2015.09.12',
       team: '',
       synopsis: 'HTT生日公演',
@@ -1547,7 +1547,7 @@ window.stageData = {
     {
       id: 'stage_150911',
       name: '20150911 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102602_150911.jpg',
+      poster: 'https://i.postimg.cc/YSkBNTRP/150911.jpg',
       date: '2015.09.11',
       team: '',
       synopsis: '',
@@ -1560,7 +1560,7 @@ window.stageData = {
     {
       id: 'stage_150822',
       name: '20150822 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716103152_150822.jpg',
+      poster: 'https://i.postimg.cc/QMsZgvmn/150822.jpg',
       date: '2015.08.22',
       team: '',
       synopsis: '',
@@ -1573,7 +1573,7 @@ window.stageData = {
     {
       id: 'stage_150819',
       name: '20150819 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716095663_150819.jpg',
+      poster: 'https://i.postimg.cc/CKYpC97r/150819.jpg',
       date: '2015.08.19',
       team: '',
       synopsis: '',
@@ -1586,7 +1586,7 @@ window.stageData = {
     {
       id: 'stage_150809',
       name: '20150809 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716104953_150809.jpg',
+      poster: 'https://i.postimg.cc/W4jcmx8W/150809.jpg',
       date: '2015.08.09',
       team: '',
       synopsis: '',
@@ -1599,7 +1599,7 @@ window.stageData = {
     {
       id: 'stage_150808',
       name: '20150808 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716103091_150808.jpg',
+      poster: 'https://i.postimg.cc/DzF3QR6C/150808.jpg',
       date: '2015.08.08',
       team: '',
       synopsis: '',
@@ -1612,7 +1612,7 @@ window.stageData = {
     {
       id: 'stage_150802',
       name: '20150802 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716100417_150802.jpg',
+      poster: 'https://i.postimg.cc/k59PNLsT/150802.jpg',
       date: '2015.08.02',
       team: '',
       synopsis: '',
@@ -1625,7 +1625,7 @@ window.stageData = {
     {
       id: 'stage_150801',
       name: '20150801 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716100531_150801.jpg',
+      poster: 'https://i.postimg.cc/JhmC3SxP/150801.jpg',
       date: '2015.08.01',
       team: '',
       synopsis: '',
@@ -1638,7 +1638,7 @@ window.stageData = {
     {
       id: 'stage_150716',
       name: '20150716 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716102088_150716.jpg',
+      poster: 'https://i.postimg.cc/6QwxVFcz/150716.jpg',
       date: '2015.07.16',
       team: '',
       synopsis: '',
@@ -1651,7 +1651,7 @@ window.stageData = {
     {
       id: 'stage_150712',
       name: '20150712 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716097777_150712.jpg',
+      poster: 'https://i.postimg.cc/25mNdgGG/150712.jpg',
       date: '2015.07.12',
       team: '',
       synopsis: '',
@@ -1664,7 +1664,7 @@ window.stageData = {
     {
       id: 'stage_150709',
       name: '20150709 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716095749_150709.jpg',
+      poster: 'https://i.postimg.cc/fbZQ71Cv/150709.jpg',
       date: '2015.07.09',
       team: '',
       synopsis: '',
@@ -1677,7 +1677,7 @@ window.stageData = {
     {
       id: 'stage_150702',
       name: '20150702 我的太阳 HTT总选拉票会',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716092928_150702.jpg',
+      poster: 'https://i.postimg.cc/yNBCh2jX/150702.jpg',
       date: '2015.07.02',
       team: '',
       synopsis: 'HTT总选拉票会',
@@ -1691,7 +1691,7 @@ window.stageData = {
     {
       id: 'stage_150617',
       name: '20150617 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716094970_150617.jpg',
+      poster: 'https://i.postimg.cc/s2yCPbmp/150617.jpg',
       date: '2015.06.17',
       team: '',
       synopsis: '',
@@ -1704,7 +1704,7 @@ window.stageData = {
     {
       id: 'stage_150614',
       name: '20150614 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716101799_150614.jpg',
+      poster: 'https://i.postimg.cc/jjKY6Bcy/150614.jpg',
       date: '2015.06.14',
       team: '',
       synopsis: '',
@@ -1717,7 +1717,7 @@ window.stageData = {
     {
       id: 'stage_150613',
       name: '20150613 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716096984_150613.jpg',
+      poster: 'https://i.postimg.cc/Bvsf5RpH/150613.jpg',
       date: '2015.06.13',
       team: '',
       synopsis: '',
@@ -1730,7 +1730,7 @@ window.stageData = {
     {
       id: 'stage_150612',
       name: '20150612 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716100954_150612.jpg',
+      poster: 'https://i.postimg.cc/HLH10Fz5/150612.jpg',
       date: '2015.06.12',
       team: '',
       synopsis: '',
@@ -1743,7 +1743,7 @@ window.stageData = {
     {
       id: 'stage_150607',
       name: '20150607 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716094126_150607.jpg',
+      poster: 'https://i.postimg.cc/k59PNLsS/150607.jpg',
       date: '2015.06.07',
       team: '',
       synopsis: '',
@@ -1756,7 +1756,7 @@ window.stageData = {
     {
       id: 'stage_150603',
       name: '20150603 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716094911_150603.jpg',
+      poster: 'https://i.postimg.cc/d0vcRg6y/150603.jpg',
       date: '2015.06.03',
       team: '',
       synopsis: '',
@@ -1769,7 +1769,7 @@ window.stageData = {
     {
       id: 'stage_150530',
       name: '20150530 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716095433_150530.jpg',
+      poster: 'https://i.postimg.cc/5t1W5DgQ/150530.jpg',
       date: '2015.05.30',
       team: '',
       synopsis: '',
@@ -1782,7 +1782,7 @@ window.stageData = {
     {
       id: 'stage_150524',
       name: '20150524 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793717817584_150524.jpg',
+      poster: 'https://i.postimg.cc/g0dby1sX/150524.jpg',
       date: '2015.05.24',
       team: '',
       synopsis: '',
@@ -1795,7 +1795,7 @@ window.stageData = {
     {
       id: 'stage_150517',
       name: '20150517 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716093547_150517.jpg',
+      poster: 'https://i.postimg.cc/zf5Yw47y/150517.jpg',
       date: '2015.05.17',
       team: '',
       synopsis: '',
@@ -1808,7 +1808,7 @@ window.stageData = {
     {
       id: 'stage_150515',
       name: '20150515 《盛夏好声音》MV发布会暨总选举启动仪式',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716094250_150515.jpg',
+      poster: 'https://i.postimg.cc/ZqZzPXHC/150515.jpg',
       date: '2015.05.15',
       team: '',
       synopsis: '',
@@ -1821,7 +1821,7 @@ window.stageData = {
     {
       id: 'stage_150509',
       name: '20150509 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716091182_150509.jpg',
+      poster: 'https://i.postimg.cc/vmMw7ChB/150509.jpg',
       date: '2015.05.09',
       team: '',
       synopsis: '',
@@ -1834,7 +1834,7 @@ window.stageData = {
     {
       id: 'stage_150503',
       name: '20150503 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716094730_150503.jpg',
+      poster: 'https://i.postimg.cc/W4jcmx8z/150503.jpg',
       date: '2015.05.03',
       team: '',
       synopsis: '',
@@ -1847,7 +1847,7 @@ window.stageData = {
     {
       id: 'stage_150425',
       name: '20150425 我的太阳',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716093994_150425.jpg',
+      poster: 'https://i.postimg.cc/htVqdKLx/150425.jpg',
       date: '2015.04.25',
       team: '',
       synopsis: '',
@@ -1861,7 +1861,7 @@ window.stageData = {
     {
       id: 'stage_150424',
       name: '20150424 我的太阳 首演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716097334_150424.jpg',
+      poster: 'https://i.postimg.cc/SxcpMm6C/150424.jpg',
       date: '2015.04.24',
       team: '',
       synopsis: '首演',
@@ -1875,7 +1875,7 @@ window.stageData = {
     {
       id: 'stage_150418',
       name: '20150418 前所未有 千秋乐',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716089675_150418.jpg',
+      poster: 'https://i.postimg.cc/mg7GHTYF/150418.jpg',
       date: '2015.04.18',
       team: '',
       synopsis: '千秋乐',
@@ -1888,7 +1888,7 @@ window.stageData = {
     {
       id: 'stage_150410',
       name: '20150410 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716093567_150410.jpg',
+      poster: 'https://i.postimg.cc/8zLV6TR6/150410.jpg',
       date: '2015.04.10',
       team: '',
       synopsis: '',
@@ -1901,7 +1901,7 @@ window.stageData = {
     {
       id: 'stage_150406',
       name: '20150406 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716089023_150406.jpg',
+      poster: 'https://i.postimg.cc/vZ5dVGrg/150406.jpg',
       date: '2015.04.06',
       team: '',
       synopsis: '',
@@ -1914,7 +1914,7 @@ window.stageData = {
     {
       id: 'stage_150405',
       name: '20150405 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088094_150405.jpg',
+      poster: 'https://i.postimg.cc/Dw1KX7rW/150405.jpg',
       date: '2015.04.05',
       team: '',
       synopsis: '',
@@ -1927,7 +1927,7 @@ window.stageData = {
     {
       id: 'stage_150327',
       name: '20150327 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716089239_150327.jpg',
+      poster: 'https://i.postimg.cc/Z56hdJ8C/150327.jpg',
       date: '2015.03.27',
       team: '',
       synopsis: '',
@@ -1940,7 +1940,7 @@ window.stageData = {
     {
       id: 'stage_150314',
       name: '20150314 前所未有 “我和春天有个约会”怀旧金曲专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716097264_150314.jpg',
+      poster: 'https://i.postimg.cc/XY90CnfX/150314.jpg',
       date: '2015.03.14',
       team: '',
       synopsis: '“我和春天有个约会”怀旧金曲专场',
@@ -1953,7 +1953,7 @@ window.stageData = {
     {
       id: 'stage_150313',
       name: '20150313 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716090389_150313.jpg',
+      poster: 'https://i.postimg.cc/x1LSz9v8/150313.jpg',
       date: '2015.03.13',
       team: '',
       synopsis: '',
@@ -1966,7 +1966,7 @@ window.stageData = {
     {
       id: 'stage_150308',
       name: '20150308 前所未有 2月人气女神黄婷婷专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716092714_150308.jpg',
+      poster: 'https://i.postimg.cc/fRYh9McR/150308.jpg',
       date: '2015.03.08',
       team: '',
       synopsis: '2月人气女神黄婷婷专场',
@@ -1979,7 +1979,7 @@ window.stageData = {
     {
       id: 'stage_150228',
       name: '20150228 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716092222_150228.jpg',
+      poster: 'https://i.postimg.cc/CxbVqwGL/150228.jpg',
       date: '2015.02.28',
       team: '',
       synopsis: '',
@@ -1992,7 +1992,7 @@ window.stageData = {
     {
       id: 'stage_150214',
       name: '20150214 前所未有 情人节主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716089850_150214.jpg',
+      poster: 'https://i.postimg.cc/mg7GHTYZ/150214.jpg',
       date: '2015.02.14',
       team: '',
       synopsis: '情人节主题公演',
@@ -2005,7 +2005,7 @@ window.stageData = {
     {
       id: 'stage_150213',
       name: '20150213 羊年春晚b版联合公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088184_150213.jpg',
+      poster: 'https://i.postimg.cc/3x2Hv3XK/150213.jpg',
       date: '2015.02.13',
       team: '',
       synopsis: '羊年春晚b版联合公演',
@@ -2018,7 +2018,7 @@ window.stageData = {
         {
       id: 'stage_150212',
       name: '20150212 羊年春晚a版联合公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716089043_150212.jpg',
+      poster: 'https://i.postimg.cc/8zLV6TRN/150212.jpg',
       date: '2015.02.12',
       team: '',
       synopsis: '羊年春晚a版联合公演',
@@ -2031,7 +2031,7 @@ window.stageData = {
     {
       id: 'stage_150125_2',
       name: '20150125 前所未有 （晚场）',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716095042_150125_2.jpg',
+      poster: 'https://i.postimg.cc/t4FHx93b/150125-2.jpg',
       date: '2015.01.25',
       team: '',
       synopsis: '（晚场）',
@@ -2044,7 +2044,7 @@ window.stageData = {
     {
       id: 'stage_150125_1',
       name: '20150125 前所未有 （午场）',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716092613_150125_1.jpg',
+      poster: 'https://i.postimg.cc/6pCNvBrw/150125-1.jpg',
       date: '2015.01.25',
       team: '',
       synopsis: '（午场）',
@@ -2057,7 +2057,7 @@ window.stageData = {
     {
       id: 'stage_150118',
       name: '20150118 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716090357_150118.jpg',
+      poster: 'https://i.postimg.cc/0y7qw9Ys/150118.jpg',
       date: '2015.01.18',
       team: '',
       synopsis: '',
@@ -2070,7 +2070,7 @@ window.stageData = {
     {
       id: 'stage_150117',
       name: '20150117 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085716_150117.jpg',
+      poster: 'https://i.postimg.cc/0y7qw9Yq/150117.jpg',
       date: '2015.01.17',
       team: '',
       synopsis: '',
@@ -2083,7 +2083,7 @@ window.stageData = {
     {
       id: 'stage_150109',
       name: '20150109 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716093132_150109.jpg',
+      poster: 'https://i.postimg.cc/FH0QLhyX/150109.jpg',
       date: '2015.01.09',
       team: '',
       synopsis: '',
@@ -2096,7 +2096,7 @@ window.stageData = {
     {
       id: 'stage_150102',
       name: '20150102 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087669_150102.jpg',
+      poster: 'https://i.postimg.cc/YCQwWt6K/150102.jpg',
       date: '2015.01.02',
       team: '',
       synopsis: '',
@@ -2109,7 +2109,7 @@ window.stageData = {
     {
       id: 'stage_141224',
       name: '20141224 前所未有 圣诞主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716090872_141224.jpg',
+      poster: 'https://i.postimg.cc/T3nXDTrZ/141224.jpg',
       date: '2014.12.24',
       team: '',
       synopsis: '圣诞主题公演',
@@ -2122,7 +2122,7 @@ window.stageData = {
     {
       id: 'stage_141220',
       name: '20141220 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716090361_141220.jpg',
+      poster: 'https://i.postimg.cc/VkXcCzjp/141220.jpg',
       date: '2014.12.20',
       team: '',
       synopsis: '',
@@ -2135,7 +2135,7 @@ window.stageData = {
     {
       id: 'stage_141219',
       name: '20141219 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087181_141219.jpg',
+      poster: 'https://i.postimg.cc/nhqtDnv5/141219.jpg',
       date: '2014.12.19',
       team: '',
       synopsis: '',
@@ -2148,7 +2148,7 @@ window.stageData = {
     {
       id: 'stage_141213',
       name: '20141213 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085575_141213.jpg',
+      poster: 'https://i.postimg.cc/8zLV6Thx/141213.jpg',
       date: '2014.12.13',
       team: '',
       synopsis: '',
@@ -2161,7 +2161,7 @@ window.stageData = {
     {
       id: 'stage_141212',
       name: '20141212 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088053_141212.jpg',
+      poster: 'https://i.postimg.cc/zXsrvygq/141212.jpg',
       date: '2014.12.12',
       team: '',
       synopsis: '',
@@ -2174,7 +2174,7 @@ window.stageData = {
     {
       id: 'stage_141207',
       name: '20141207 前所未有 一日男友主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085919_141207.jpg',
+      poster: 'https://i.postimg.cc/c4pSCvn0/141207.jpg',
       date: '2014.12.07',
       team: '',
       synopsis: '一日男友主题公演',
@@ -2187,7 +2187,7 @@ window.stageData = {
     {
       id: 'stage_141130',
       name: '20141130 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088909_141130.jpg',
+      poster: 'https://i.postimg.cc/dtbY3hyF/141130.jpg',
       date: '2014.11.30',
       team: '',
       synopsis: '',
@@ -2200,7 +2200,7 @@ window.stageData = {
     {
       id: 'stage_141123',
       name: '20141123 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088173_141123.jpg',
+      poster: 'https://i.postimg.cc/sDkrxMhy/141123.jpg',
       date: '2014.11.23',
       team: '',
       synopsis: '',
@@ -2213,7 +2213,7 @@ window.stageData = {
     {
       id: 'stage_141122',
       name: '20141122 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793717064591_141122.jpg',
+      poster: 'https://i.postimg.cc/65kXq8vX/141122.jpg',
       date: '2014.11.22',
       team: '',
       synopsis: '',
@@ -2226,7 +2226,7 @@ window.stageData = {
     {
       id: 'stage_141116',
       name: '20141116 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087922_141116.jpg',
+      poster: 'https://i.postimg.cc/7YFkh528/141116.jpg',
       date: '2014.11.16',
       team: '',
       synopsis: '',
@@ -2239,7 +2239,7 @@ window.stageData = {
     {
       id: 'stage_141115',
       name: '20141115 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087981_141115.jpg',
+      poster: 'https://i.postimg.cc/5NhVyXCW/141115.jpg',
       date: '2014.11.15',
       team: '',
       synopsis: '',
@@ -2252,7 +2252,7 @@ window.stageData = {
     {
       id: 'stage_141109',
       name: '20141109 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087398_141109.jpg',
+      poster: 'https://i.postimg.cc/gkCWjxZ9/141109.jpg',
       date: '2014.11.09',
       team: '',
       synopsis: '',
@@ -2265,7 +2265,7 @@ window.stageData = {
     {
       id: 'stage_141102',
       name: '20141102 剧场女神 剧场女神一周年复活公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088651_141102.jpg',
+      poster: 'https://i.postimg.cc/Yq5H0vm5/141102.jpg',
       date: '2014.11.02',
       team: '',
       synopsis: '剧场女神一周年复活公演',
@@ -2278,7 +2278,7 @@ window.stageData = {
     {
       id: 'stage_141101',
       name: '20141101 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716087281_141101.jpg',
+      poster: 'https://i.postimg.cc/PrgjJC89/141101.jpg',
       date: '2014.11.01',
       team: '',
       synopsis: '',
@@ -2291,7 +2291,7 @@ window.stageData = {
     {
       id: 'stage_141031',
       name: '20141031 前所未有 万圣节主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716090212_141031.jpg',
+      poster: 'https://i.postimg.cc/PrgjJC80/141031.jpg',
       date: '2014.10.31',
       team: '',
       synopsis: '万圣节主题公演',
@@ -2304,7 +2304,7 @@ window.stageData = {
     {
       id: 'stage_141026',
       name: '20141026 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716081626_141026.jpg',
+      poster: 'https://i.postimg.cc/dtbY3hTz/141026.jpg',
       date: '2014.10.26',
       team: '',
       synopsis: '',
@@ -2317,7 +2317,7 @@ window.stageData = {
     {
       id: 'stage_141025',
       name: '20141025 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085935_141025.jpg',
+      poster: 'https://i.postimg.cc/65kXq8Gm/141025.jpg',
       date: '2014.10.25',
       team: '',
       synopsis: '',
@@ -2330,7 +2330,7 @@ window.stageData = {
     {
       id: 'stage_141019',
       name: '20141019 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088032_141019.jpg',
+      poster: 'https://i.postimg.cc/7YFkh5Ts/141019.jpg',
       date: '2014.10.19',
       team: '',
       synopsis: '',
@@ -2343,7 +2343,7 @@ window.stageData = {
     {
       id: 'stage_141018',
       name: '20141018 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716088295_141018.jpg',
+      poster: 'https://i.postimg.cc/dtbY3hTW/141018.jpg',
       date: '2014.10.18',
       team: '',
       synopsis: '',
@@ -2356,7 +2356,7 @@ window.stageData = {
     {
       id: 'stage_141017',
       name: '20141017 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716086823_141017.jpg',
+      poster: 'https://i.postimg.cc/FsM4zYJC/141017.jpg',
       date: '2014.10.17',
       team: '',
       synopsis: '',
@@ -2369,7 +2369,7 @@ window.stageData = {
     {
       id: 'stage_141012',
       name: '20141012 前所未有',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716080884_141012.jpg',
+      poster: 'https://i.postimg.cc/9F6h0DqL/141012.jpg',
       date: '2014.10.12',
       team: '',
       synopsis: '',
@@ -2382,7 +2382,7 @@ window.stageData = {
     {
       id: 'stage_141011',
       name: '20141011 前所未有 首演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716086362_141011.jpg',
+      poster: 'https://i.postimg.cc/ZKGSnWyV/141011.jpg',
       date: '2014.10.11',
       team: '',
       synopsis: '首演',
@@ -2395,7 +2395,7 @@ window.stageData = {
     {
       id: 'stage_141004',
       name: '20141004 逆流而上 千秋乐',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085826_141004.jpg',
+      poster: 'https://i.postimg.cc/RVkBhWnG/141004.jpg',
       date: '2014.10.04',
       team: '',
       synopsis: '千秋乐',
@@ -2408,7 +2408,7 @@ window.stageData = {
     {
       id: 'stage_141003',
       name: '20141003 逆流而上 HTT百场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716079888_141003.jpg',
+      poster: 'https://i.postimg.cc/qMPTqNCG/141003.jpg',
       date: '2014.10.03',
       team: '',
       synopsis: 'HTT百场',
@@ -2421,7 +2421,7 @@ window.stageData = {
     {
       id: 'stage_141002',
       name: '20141002 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085099_141002.jpg',
+      poster: 'https://i.postimg.cc/vHJsT46z/141002.jpg',
       date: '2014.10.02',
       team: '',
       synopsis: '',
@@ -2434,7 +2434,7 @@ window.stageData = {
     {
       id: 'stage_140927',
       name: '20140927 东芝主题s，n联合公演（晚场）',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716082458_140927.jpg',
+      poster: 'https://i.postimg.cc/MKCSHnjm/140927.jpg',
       date: '2014.09.27',
       team: '',
       synopsis: '',
@@ -2445,7 +2445,7 @@ window.stageData = {
     {
       id: 'stage_140921',
       name: '20140921 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716085522_140921.jpg',
+      poster: 'https://i.postimg.cc/qMPTqNCX/140921.jpg',
       date: '2014.09.21',
       team: '',
       synopsis: '',
@@ -2458,7 +2458,7 @@ window.stageData = {
     {
       id: 'stage_140920',
       name: '20140920 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716086456_140920.jpg',
+      poster: 'https://i.postimg.cc/RVkBhWn1/140920.jpg',
       date: '2014.09.20',
       team: '',
       synopsis: '',
@@ -2471,7 +2471,7 @@ window.stageData = {
     {
       id: 'stage_140919',
       name: '20140919 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716078673_140919.jpg',
+      poster: 'https://i.postimg.cc/9F6h0Dqd/140919.jpg',
       date: '2014.09.19',
       team: '',
       synopsis: '',
@@ -2484,7 +2484,7 @@ window.stageData = {
     {
       id: 'stage_140914',
       name: '20140914 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716082507_140914.jpg',
+      poster: 'https://i.postimg.cc/Qx23CFWc/140914.jpg',
       date: '2014.09.14',
       team: '',
       synopsis: '',
@@ -2497,7 +2497,7 @@ window.stageData = {
     {
       id: 'stage_140913',
       name: '20140913 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716077209_140913.jpg',
+      poster: 'https://i.postimg.cc/02TsjzJD/140913.jpg',
       date: '2014.09.13',
       team: '',
       synopsis: '',
@@ -2510,7 +2510,7 @@ window.stageData = {
     {
       id: 'stage_140908',
       name: '20140908 逆流而上 HTT生日公演/中秋主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716081205_140908.jpg',
+      poster: 'https://i.postimg.cc/sDQz3Y1n/140908.jpg',
       date: '2014.09.08',
       team: '',
       synopsis: 'HTT生日公演/中秋主题公演',
@@ -2523,7 +2523,7 @@ window.stageData = {
     {
       id: 'stage_140907',
       name: '20140907 逆流而上',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716076252_140907.jpg',
+      poster: 'https://i.postimg.cc/5NYJfBjs/140907.jpg',
       date: '2014.09.07',
       team: '',
       synopsis: '',
@@ -2536,7 +2536,7 @@ window.stageData = {
     {
       id: 'stage_140824',
       name: '20140824 剧场女神 夏季公演推广场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716080062_140824.jpg',
+      poster: 'https://i.postimg.cc/3J4h3XW1/140824.jpg',
       date: '2014.08.24',
       team: '',
       synopsis: '夏季公演推广场',
@@ -2549,7 +2549,7 @@ window.stageData = {
     {
       id: 'stage_140823',
       name: '20140823 逆流而上 夏季公演推广场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716081244_140823.jpg',
+      poster: 'https://i.postimg.cc/qMhrpsgL/140823.jpg',
       date: '2014.08.23',
       team: '',
       synopsis: '夏季公演推广场',
@@ -2562,7 +2562,7 @@ window.stageData = {
     {
       id: 'stage_140817',
       name: '20140817 逆流而上 经典影视专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716084904_140817.jpg',
+      poster: 'https://i.postimg.cc/Gh8RbF9x/140817.jpg',
       date: '2014.08.17',
       team: '',
       synopsis: '经典影视专场',
@@ -2575,7 +2575,7 @@ window.stageData = {
     {
       id: 'stage_140816',
       name: '20140816 逆流而上 暴走漫画专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716081683_140816.jpg',
+      poster: 'https://i.postimg.cc/WbFVsGt7/140816.jpg',
       date: '2014.08.16',
       team: '',
       synopsis: '暴走漫画专场',
@@ -2589,7 +2589,7 @@ window.stageData = {
     {
       id: 'stage_140815',
       name: '20140815 逆流而上 夏季公演推广场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716080543_140815.jpg',
+      poster: 'https://i.postimg.cc/RV6mv7q1/140815.jpg',
       date: '2014.08.15',
       team: '',
       synopsis: '夏季公演推广场',
@@ -2602,7 +2602,7 @@ window.stageData = {
     {
       id: 'stage_140810',
       name: '20140810 逆流而上 经典动画专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716078249_140810.jpg',
+      poster: 'https://i.postimg.cc/xTJQ9vqy/140810.jpg',
       date: '2014.08.10',
       team: '',
       synopsis: '经典动画专场',
@@ -2615,7 +2615,7 @@ window.stageData = {
     {
       id: 'stage_140809',
       name: '20140809 逆流而上 十万个冷笑话专场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716080327_140809.jpg',
+      poster: 'https://i.postimg.cc/fTtsMckY/140809.jpg',
       date: '2014.08.09',
       team: '',
       synopsis: '十万个冷笑话专场',
@@ -2628,7 +2628,7 @@ window.stageData = {
     {
       id: 'stage_140807',
       name: '20140807 逆流而上 夏季公演推广场',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716076563_140807.jpg',
+      poster: 'https://i.postimg.cc/gkXpGVrv/140807.jpg',
       date: '2014.08.07',
       team: '',
       synopsis: '夏季公演推广场',
@@ -2641,7 +2641,7 @@ window.stageData = {
     {
       id: 'stage_140802',
       name: '20140802 逆流而上 七夕节主题公演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716074529_140802.jpg',
+      poster: 'https://i.postimg.cc/vHgyGrD6/140802.jpg',
       date: '2014.08.02',
       team: '',
       synopsis: '七夕节主题公演',
@@ -2654,7 +2654,7 @@ window.stageData = {
     {
       id: 'stage_140511',
       name: '20140511 首届总选举启动仪式',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793759097495_140511.jpg',
+      poster: 'https://i.postimg.cc/bNDPqxdS/140511.jpg',
       date: '2014.05.11',
       team: '',
       synopsis: '',
@@ -2668,7 +2668,7 @@ window.stageData = {
     {
       id: 'stage_140315',
       name: '20140315 剧场女神',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716082132_140315.jpg',
+      poster: 'https://i.postimg.cc/7YG4q3bG/140315.jpg',
       date: '2014.03.15',
       team: '',
       synopsis: '',
@@ -2681,7 +2681,7 @@ window.stageData = {
     {
       id: 'stage_131102',
       name: '20131102 剧场女神 首演',
-      poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_stage/1793716082070_131102.jpg',
+      poster: 'https://i.postimg.cc/dtkFJ2Dy/131102.jpg',
       date: '2013.11.02',
       team: '',
       synopsis: '首演',

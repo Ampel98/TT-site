@@ -6,7 +6,7 @@ window.mvData = {
       {
         id: 'mv_am',
         name: '黄婷婷《由我挑战· ALL MINE》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861176858_am.jpg',
+        poster: 'https://i.postimg.cc/L8Xtbss0/am.jpg',
         artist: '黄婷婷',
         date: '2022.09.25',
         album: '',
@@ -32,7 +32,7 @@ window.mvData = {
       {
         id: 'mv_wclq',
         name: '黄婷婷《未曾离去》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861182352_wclq.jpg',
+        poster: 'https://i.postimg.cc/mg5YfGzZ/wclq.jpg',
         artist: '黄婷婷',
         date: '2020.08.14',
         album: '',
@@ -58,7 +58,7 @@ window.mvData = {
       {
         id: 'mv_wnys',
         name: '黄婷婷 / 金志文《唯你一生》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861184472_wnys.jpg',
+        poster: 'https://i.postimg.cc/L8btKMYX/wnys.jpg',
         artist: '黄婷婷 / 金志文',
         date: '2019.12.03',
         album: '',
@@ -84,7 +84,7 @@ window.mvData = {
       {
         id: 'mv_fy',
         name: '黄婷婷《FEELING YOU》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177780_fy.jpg',
+        poster: 'https://i.postimg.cc/kg4Qp55k/fy.jpg',
         artist: '黄婷婷',
         date: '2018.09.08',
         album: '',
@@ -110,7 +110,7 @@ window.mvData = {
       {
         id: 'mv_ap',
         name: '黄婷婷《爱P》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1793430047993_ap.jpg',
+        poster: 'https://i.postimg.cc/2S6QK55c/ap.jpg',
         artist: '黄婷婷',
         date: '2018.07.12',
         album: '',
@@ -136,7 +136,7 @@ window.mvData = {
       {
         id: 'mv_hyns',
         name: '黄婷婷《黑夜女神》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861181442_hyns.jpg',
+        poster: 'https://i.postimg.cc/7ZW38yCc/hyns.jpg',
         artist: '黄婷婷',
         date: '2017.09.11',
         album: '《黑夜女神》',
@@ -162,7 +162,7 @@ window.mvData = {
       {
         id: 'mv_xgsy',
         name: '黄婷婷《星光闪耀》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177848_xgsy.jpg',
+        poster: 'https://i.postimg.cc/7ZW38yG5/xgsy.jpg',
         artist: '黄婷婷',
         date: '2017.07.06',
         album: '《逆袭之星途璀璨》原声大碟',
@@ -192,7 +192,7 @@ window.mvData = {
       {
         id: 'mv_cq',
         name: '薛之谦《彩券》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861172873_cq.jpg',
+        poster: 'https://i.postimg.cc/XYJfzvvt/cq.jpg',
         artist: '薛之谦',
         date: '2021.03.03',
         album: '《天外来物》',
@@ -222,7 +222,7 @@ window.mvData = {
       {
         id: 'mv_jynh',
         name: 'SNH48《加油女孩》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861182008_jynh.jpg',
+        poster: 'https://i.postimg.cc/Z5M8th92/jynh.jpg',
         artist: 'SNH48',
         date: '2019.04.18',
         album: '',
@@ -237,7 +237,7 @@ window.mvData = {
       {
         id: 'mv_hydt',
         name: 'SNH48《红运当头》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861182376_hydt.jpg',
+        poster: 'https://i.postimg.cc/9Qnd5j4g/hydt.jpg',
         artist: 'SNH48',
         date: '2018.12.30',
         album: '',
@@ -252,7 +252,7 @@ window.mvData = {
       {
         id: 'mv_gzgj',
         name: 'SNH48《光之轨迹》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861181119_gzgj.jpg',
+        poster: 'https://i.postimg.cc/bwJxBvJX/gzgj.jpg',
         artist: 'SNH48 Team NII',
         date: '2018.11.26',
         album: '',
@@ -267,7 +267,7 @@ window.mvData = {
       {
         id: 'mv_wlyl',
         name: 'Various Artists《未来已来》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861179488_wlyl.jpg',
+        poster: 'https://i.postimg.cc/pL6fbthX/wlyl.jpg',
         artist: 'Various Artists',
         date: '2018.11.16',
         album: '',
@@ -282,7 +282,7 @@ window.mvData = {
       {
         id: 'mv_mndsp',
         name: 'SNH48《魔女的诗篇》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861182807_mndsp.jpg',
+        poster: 'https://i.postimg.cc/HkhwDCJq/mndsp.jpg',
         artist: 'SNH48',
         date: '2018.10.15',
         album: '《魔女的诗篇》',
@@ -301,7 +301,7 @@ window.mvData = {
       {
         id: 'mv_rqdsm',
         name: 'SNH48《热情的沙漠》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177930_rqdsm.jpg',
+        poster: 'https://i.postimg.cc/qv5sVdhT/rqdsm.jpg',
         artist: 'SNH48',
         date: '2018.07.24',
         album: '',
@@ -316,7 +316,7 @@ window.mvData = {
       {
         id: 'mv_hyl',
         name: 'SNH48 / 祖海《好运来》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861184730_hyl.jpg',
+        poster: 'https://i.postimg.cc/g2TVFPwT/hyl.jpg',
         artist: 'SNH48 / 祖海',
         date: '2017.12.28',
         album: '',
@@ -331,7 +331,7 @@ window.mvData = {
       {
         id: 'mv_nbls',
         name: 'SNH48《那不勒斯的黎明》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861182110_nbls.jpg',
+        poster: 'https://i.postimg.cc/Gm5Fw181/nbls.jpg',
         artist: 'SNH48',
         date: '2017.11.01',
         album: '《那不勒斯的黎明》',
@@ -348,7 +348,7 @@ window.mvData = {
       {
         id: 'mv_gczg',
         name: 'SNH48《歌唱祖国》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861179528_gczg.jpg',
+        poster: 'https://i.postimg.cc/dV12x00b/gczg.jpg',
         artist: 'SNH48',
         date: '2017.09.30',
         album: '',
@@ -363,7 +363,7 @@ window.mvData = {
       {
         id: 'mv_wxax',
         name: 'SNH48《我心翱翔》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791872507825_wxax.jpg',
+        poster: 'https://i.postimg.cc/Njz6qw95/wxax.jpg',
         artist: 'SNH48',
         date: '2017.09.30',
         album: '',
@@ -378,7 +378,7 @@ window.mvData = {
       {
         id: 'mv_xrnmc',
         name: 'SNH48《夏日柠檬船》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861185106_xrnmc.jpg',
+        poster: 'https://i.postimg.cc/pL6fbthh/xrnmc.jpg',
         artist: 'SNH48',
         date: '2017.05.30',
         album: '《夏日柠檬船》',
@@ -396,7 +396,7 @@ window.mvData = {
       {
         id: 'mv_bcdwl',
         name: 'SNH48《彼此的未来》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861180862_bcdwl.jpg',
+        poster: 'https://i.postimg.cc/HkxwhLLh/bcdwl.jpg',
         artist: 'SNH48',
         date: '2017.03.10',
         album: '《彼此的未来》',
@@ -411,7 +411,7 @@ window.mvData = {
       {
         id: 'mv_hh',
         name: 'SNH48《回合》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861174393_hh.jpg',
+        poster: 'https://i.postimg.cc/Jz2NVWyT/hh.jpg',
         artist: '黄婷婷 / 鞠婧祎',
         date: '2016.11.03',
         album: '',
@@ -426,7 +426,7 @@ window.mvData = {
       {
         id: 'mv_gzpf',
         name: 'SNH48《公主披风》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861181195_gzpf.jpg',
+        poster: 'https://i.postimg.cc/L8XtbsXF/gzpf.jpg',
         artist: 'SNH48',
         date: '2016.10.13',
         album: '《公主披风》',
@@ -445,7 +445,7 @@ window.mvData = {
       {
         id: 'mv_bg',
         name: 'SNH48《BINGO！》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177225_bg.jpg',
+        poster: 'https://i.postimg.cc/K8zPHYYV/bg.jpg',
         artist: 'SNH48 Team NII',
         date: '2016.08.24',
         album: '',
@@ -460,7 +460,7 @@ window.mvData = {
       {
         id: 'mv_ybjp',
         name: 'SNH48《摇摆节拍》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861184765_ybjp.jpg',
+        poster: 'https://i.postimg.cc/mr1QT6Cb/ybjp.jpg',
         artist: 'SNH48 Team NII',
         date: '2016.08.18',
         album: '',
@@ -475,7 +475,7 @@ window.mvData = {
       {
         id: 'mv_mxd',
         name: 'SNH48《梦想岛》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861180518_mxd.jpg',
+        poster: 'https://i.postimg.cc/Sxv6Fp2F/mxd.jpg',
         artist: 'SNH48',
         date: '2016.05.26',
         album: '《梦想岛》',
@@ -495,7 +495,7 @@ window.mvData = {
       {
         id: 'mv_ydl',
         name: 'SNH48《源动力》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861180569_ydl.jpg',
+        poster: 'https://i.postimg.cc/KY3nmsBc/ydl.jpg',
         artist: 'SNH48',
         date: '2016.03.31',
         album: '《源动力》',
@@ -510,7 +510,7 @@ window.mvData = {
       {
         id: 'mv_yd',
         name: '黄婷婷《夜蝶》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861179804_yd.jpg',
+        poster: 'https://i.postimg.cc/d0Z8JSrs/yd.jpg',
         artist: '黄婷婷',
         date: '2016.03.17',
         album: '《夜蝶》',
@@ -525,7 +525,7 @@ window.mvData = {
       {
         id: 'mv_wsjzy',
         name: 'SNH48《万圣节之夜》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177936_wsjzy.jpg',
+        poster: 'https://i.postimg.cc/Gm5Fw189/wsjzy.jpg',
         artist: 'SNH48',
         date: '2015.10.13',
         album: '《万圣节之夜》',
@@ -540,7 +540,7 @@ window.mvData = {
       {
         id: 'mv_sfbaf',
         name: 'SNH48《释FUN不安分》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177821_sfbaf.jpg',
+        poster: 'https://i.postimg.cc/bwBxcjD8/sfbaf.jpg',
         artist: 'SNH48',
         date: '2015.09.08',
         album: '',
@@ -555,7 +555,7 @@ window.mvData = {
       {
         id: 'mv_mxgf',
         name: 'SNH48《梦想高飞》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791872504001_mxgf.jpg',
+        poster: 'https://i.postimg.cc/DwMrkKJ3/mxgf.jpg',
         artist: 'SNH48',
         date: '2015.08.13',
         album: '',
@@ -570,7 +570,7 @@ window.mvData = {
       {
         id: 'mv_mwyfq',
         name: 'SNH48《马尾与发圈》2015版',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861175916_mwyfq.jpg',
+        poster: 'https://i.postimg.cc/rwP1XL06/mwyfq.jpg',
         artist: 'SNH48',
         date: '2015.06.30',
         album: '',
@@ -585,7 +585,7 @@ window.mvData = {
       {
         id: 'mv_bpkll',
         name: 'SNH48《奔跑卡路里》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861179390_bpkll.jpg',
+        poster: 'https://i.postimg.cc/K8zPHYYw/bpkll.jpg',
         artist: 'SNH48',
         date: '2015.06.16',
         album: '',
@@ -600,7 +600,7 @@ window.mvData = {
       {
         id: 'mv_sxhsy',
         name: 'SNH48《盛夏好声音》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861177974_sxhsy.jpg',
+        poster: 'https://i.postimg.cc/T34VMXLR/sxhsy.jpg',
         artist: 'SNH48',
         date: '2015.05.17',
         album: '《盛夏好声音》',
@@ -620,7 +620,7 @@ window.mvData = {
       {
         id: 'mv_ymm',
         name: 'SNH48《羊咩咩》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861186020_ymm.jpg',
+        poster: 'https://i.postimg.cc/6Q4dB1n5/ymm.jpg',
         artist: 'SNH48',
         date: '2015.03.05',
         album: '《羊咩咩》',
@@ -635,7 +635,7 @@ window.mvData = {
       {
         id: 'mv_sd',
         name: 'SNH48《START DASH》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861183719_sd.jpg',
+        poster: 'https://i.postimg.cc/Jz2NVWD8/sd.jpg',
         artist: '黄婷婷 / 易嘉爱',
         date: '2014.10.24',
         album: '',
@@ -650,7 +650,7 @@ window.mvData = {
       {
         id: 'mv_adyy',
         name: 'SNH48《爱的意义》啦啦操版',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861176661_adyy.jpg',
+        poster: 'https://i.postimg.cc/HkxwhLLv/adyy.jpg',
         artist: 'SNH48 Team NII',
         date: '2014.09.23',
         album: '',
@@ -665,7 +665,7 @@ window.mvData = {
       {
         id: 'mv_zqpd',
         name: 'SNH48《足球派对》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_mv/1791861183915_zqpd.jpg',
+        poster: 'https://i.postimg.cc/TP5rTHg3/zqpd.jpg',
         artist: 'SNH48 Team NII',
         date: '2014.06.09',
         album: '',

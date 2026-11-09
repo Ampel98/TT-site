@@ -6,7 +6,7 @@ window.seriesData = {
       {
         id: 'series_zyl',
         name: '《折月亮》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807453984_zyl.jpg',
+        poster: 'https://i.postimg.cc/3xf22H37/zyl.jpg',
         role: '饰 夏从声',
         platform: '爱奇艺 / 江苏卫视',
         episodes: '全27集',
@@ -36,7 +36,7 @@ window.seriesData = {
       {
         id: 'series_fdwxs',
         name: '《飞到我心上》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807444644_fdwxs.jpg',
+        poster: 'https://i.postimg.cc/HkkQJLDM/fdwxs.jpg',
         role: '饰 李之槐',
         platform: '湖南卫视 / 芒果TV / 咪咕视频等',
         episodes: '全24集',
@@ -70,7 +70,7 @@ window.seriesData = {
       {
         id: 'series_cx',
         name: '《炽夏》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807446182_cx.jpg',
+        poster: 'https://i.postimg.cc/wjjhtB8y/cx.jpg',
         role: '饰 沈岚',
         platform: '湖南卫视 / 芒果TV / 咪咕视频等',
         episodes: '全29集',
@@ -109,7 +109,7 @@ window.seriesData = {
       {
         id: 'series_yn',
         name: '《被隐匿的真相》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1793447645316_yn.jpg',
+        poster: 'https://i.postimg.cc/P5V11kT9/yn.jpg',
         role: '饰 王以沫',
         platform: '腾讯视频',
         episodes: '全12集',
@@ -142,7 +142,7 @@ window.seriesData = {
       {
         id: 'series_jksc',
         name: '《即刻上场》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807442210_jksc.jpg',
+        poster: 'https://i.postimg.cc/sggpB2dP/jksc.jpg',
         role: '饰 黄月',
         platform: 'CCTV / 腾讯视频',
         episodes: '全24集',
@@ -164,7 +164,7 @@ window.seriesData = {
       {
         id: 'series_xmyn',
         name: '《熊猫与你，滚滚而来！》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807446121_xmyn.jpg',
+        poster: 'https://i.postimg.cc/3xf22HYf/xmyn.jpg',
         role: '饰 刘柳',
         platform: '优酷视频',
         episodes: '全20集',
@@ -188,7 +188,7 @@ window.seriesData = {
       {
         id: 'series_sqy',
         name: '《深情眼》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807442270_syq.jpg',
+        poster: 'https://i.postimg.cc/t4vFFHpk/syq.jpg',
         role: '饰 江露芝',
         platform: '湖南卫视 / 芒果TV / 咪咕视频等',
         episodes: '全26集',
@@ -216,7 +216,7 @@ window.seriesData = {
       {
         id: 'series_hy',
         name: '《花月》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807445133_hy.jpg',
+        poster: 'https://i.postimg.cc/QddpBMGc/hy.jpg',
         role: '饰 月千雪',
         platform: '腾讯视频',
         episodes: '全18集',
@@ -241,7 +241,7 @@ window.seriesData = {
       {
         id: 'series_yycn',
         name: '《御妖厨娘》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807449171_yycn.jpg',
+        poster: 'https://i.postimg.cc/CxrbbVwp/yycn.jpg',
         role: '饰 银妹妹',
         platform: '爱奇艺',
         episodes: '全24集',
@@ -259,7 +259,7 @@ window.seriesData = {
       {
         id: 'series_scb',
         name: '《沙尘暴》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807443502_scb.jpg',
+        poster: 'https://i.postimg.cc/133pgzh7/scb.jpg',
         role: '饰 琴',
         platform: '优酷视频',
         episodes: '全12集',
@@ -283,7 +283,7 @@ window.seriesData = {
       {
         id: 'series_bkadt',
         name: '《不可爱的她》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807444998_bkadt.jpg',
+        poster: 'https://i.postimg.cc/DwwqWzk8/bkadt.jpg',
         role: '饰 唐嘉佳',
         platform: '爱奇艺',
         episodes: '全24集',
@@ -307,7 +307,7 @@ window.seriesData = {
       {
         id: 'series_dsyqa',
         name: '《大宋有奇案》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807448486_dsyqa.jpg',
+        poster: 'https://i.postimg.cc/8zzhFCQr/dsyqa.jpg',
         role: '饰 穆青',
         platform: '腾讯视频',
         episodes: '全20集',
@@ -331,7 +331,7 @@ window.seriesData = {
       {
         id: 'series_hhsx',
         name: '《虎鹤双行》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807448832_hhsx.jpg',
+        poster: 'https://i.postimg.cc/DwwqWzkL/hhsx.jpg',
         role: '饰 Judy / 双总',
         platform: '腾讯视频',
         episodes: '全20集',
@@ -349,7 +349,7 @@ window.seriesData = {
       {
         id: 'series_fcrs',
         name: '《飞驰人生热爱篇》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807447113_fcrs.jpg',
+        poster: 'https://i.postimg.cc/wjjhtB8m/fcrs.jpg',
         role: '饰 解说小黄',
         platform: '优酷视频',
         episodes: '全28集',
@@ -373,7 +373,7 @@ window.seriesData = {
       {
         id: 'series_wf',
         name: '《王妃芳龄三千岁》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807451956_wf.jpg',
+        poster: 'https://i.postimg.cc/pLcKKtRq/wf.jpg',
         role: '饰 墨冰 / 玉三娘 / 纤云',
         platform: '腾讯视频',
         episodes: '全24集',
@@ -391,7 +391,7 @@ window.seriesData = {
       {
         id: 'series_qdf',
         name: '《全世界都在等你们分手》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807441665_qdf.jpg',
+        poster: 'https://i.postimg.cc/VkkjSNQG/qdf.jpg',
         role: '饰 林清妙 / 徐甜甜',
         platform: '爱奇艺 / 芒果TV',
         episodes: '全24集',
@@ -417,7 +417,7 @@ window.seriesData = {
       {
         id: 'series_sszt',
         name: '《素手遮天》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807447886_sszt.jpg',
+        poster: 'https://i.postimg.cc/L8QjjM2V/sszt.jpg',
         role: '饰 素妗',
         platform: '腾讯视频',
         episodes: '全32集',
@@ -436,7 +436,7 @@ window.seriesData = {
       {
         id: 'series_nx',
         name: '《逆袭之星途璀璨》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807447732_nx.jpg',
+        poster: 'https://i.postimg.cc/522wHtdS/nx.jpg',
         role: '饰 程语柔',
         platform: '腾讯视频',
         episodes: '全50集',
@@ -455,7 +455,7 @@ window.seriesData = {
       {
         id: 'series_qajb',
         name: '《球爱酒吧》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807444116_qajb.jpg',
+        poster: 'https://i.postimg.cc/JzzbyhVT/qajb.jpg',
         role: '饰 Sweet Girls',
         platform: '优酷视频',
         episodes: '全20集',
@@ -478,7 +478,7 @@ window.seriesData = {
       {
         id: 'dy_zdxb',
         name: '《大世界扭蛋机2：准点下班》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807452728_zdxb.jpg',
+        poster: 'https://i.postimg.cc/6pbCCNBK/zdxb.jpg',
         role: '饰 前女友',
         platform: '哔哩哔哩',
         episodes: '单片',
@@ -497,7 +497,7 @@ window.seriesData = {
       {
         id: 'dy_tsnz',
         name: '《天生女主》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807450923_tsnz.jpg',
+        poster: 'https://i.postimg.cc/wj4DDdgF/tsnz.jpg',
         role: '饰 善善',
         platform: '抖音 / 微博',
         episodes: '单片',
@@ -531,7 +531,7 @@ window.seriesData = {
       {
         id: 'dy_chxf',
         name: '《翠狐戏夫》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807442930_chxf.jpg',
+        poster: 'https://i.postimg.cc/mggQcrfP/chxf.jpg',
         role: '饰 小翠',
         platform: '腾讯视频',
         episodes: '电影长片',
@@ -561,7 +561,7 @@ window.seriesData = {
       {
         id: 'dy_ysyn',
         name: '《一生有你2019》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807444997_ysyn.jpg',
+        poster: 'https://i.postimg.cc/P5V11kdG/ysyn.jpg',
         role: '饰 蕾蕾',
         platform: '院线 / 爱奇艺 / 优酷 / 腾讯视频 / 芒果TV',
         episodes: '电影长片',
@@ -591,7 +591,7 @@ window.seriesData = {
       {
         id: 'dy_wjd',
         name: '《无间道》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1792311258163_wjd.jpg',
+        poster: 'https://i.postimg.cc/htZVVqcC/wjd.jpg',
         role: '',
         platform: '土豆视频',
         episodes: '单片',
@@ -608,7 +608,7 @@ window.seriesData = {
       {
         id: 'dy_jnp',
         name: '《纪念品》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807442183_jnp.jpg',
+        poster: 'https://i.postimg.cc/MppycG2b/jnp.jpg',
         role: '饰 婷婷',
         platform: '腾讯视频',
         episodes: '单片',
@@ -647,7 +647,7 @@ window.seriesData = {
       {
         id: 'db_xyq',
         name: '《小夜曲》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807446121_xyq.jpg',
+        poster: 'https://i.postimg.cc/NjCRRwBP/xyq.jpg',
         role: '饰 蔚蓝',
         platform: '待定',
         episodes: '待播',
@@ -669,7 +669,7 @@ window.seriesData = {
       {
         id: 'db_qadhz',
         name: '《亲爱的孩子》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1793930812858_qadhz.jpg',
+        poster: 'https://i.postimg.cc/0yyp6NRV/qadhz.jpg',
         role: '饰 青年黄玄凤',
         platform: '待定',
         episodes: '待播',
@@ -688,7 +688,7 @@ window.seriesData = {
       {
         id: 'db_dbzqs',
         name: '《大鼻子情圣》',
-        poster: 'https://cloudflare-imgbed-94l.pages.dev/file/video_ys/1791807445008_dbzqs.jpg',
+        poster: 'https://i.postimg.cc/nhhvsLbs/dbzqs.jpg',
         role: '饰 孔以然',
         platform: '待定',
         episodes: '待播',
