@@ -2,6 +2,22 @@ window.commercialData = {
   groups: [
     { title: '单人', items: [
       {
+        id: 'sw_pip',
+        name: 'PLUG-IN PET',
+        brand: 'PLUG-IN PET',
+        type:'品牌大使',
+        poster: 'https://i.postimg.cc/MpGL8zL2/pip.jpg',
+        platform: '',
+        date: '2026.11',
+        synopsis: '',
+        fullVideo: [
+          { label: '微博 - TVC', type: 'link', url: 'https://weibo.com/tv/show/1034:5363409835720806' },
+          { label: '微博 - ID', type: 'link', url: 'https://weibo.com/tv/show/1034:5362305651900497' }
+        ],
+        behindScenes: [],
+        downloads: []
+      },
+      {
         id: 'sw_sp',
         name: 'SnackPaper',
         brand: 'SnackPaper',
