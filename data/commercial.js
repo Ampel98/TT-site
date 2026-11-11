@@ -12,10 +12,17 @@ window.commercialData = {
         synopsis: '',
         fullVideo: [
           { label: '微博 - TVC', type: 'link', url: 'https://weibo.com/tv/show/1034:5363409835720806' },
-          { label: '微博 - ID', type: 'link', url: 'https://weibo.com/tv/show/1034:5362305651900497' }
+          { label: '微博 - ID', type: 'link', url: 'https://weibo.com/tv/show/1034:5362305651900497' },
+          { label: '微博 - 双十一宠爱提醒', type: 'link', url: 'https://weibo.com/tv/show/1034:5362304951451723' }
         ],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 合集',
+          mediaInfo: '',
+          url: 'https://pan.quark.cn/s/13d95f1350cb?pwd=PYyq',
+          code: 'PYyq',
+          cover: ''}
+        ]
       },
       {
         id: 'sw_sp',
