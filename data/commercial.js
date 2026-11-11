@@ -35,7 +35,13 @@ window.commercialData = {
         synopsis: 'SnackPaper Co-Lab 【TT&51】子品牌代言人',
         fullVideo: [{ label: 'B站 - 物料合集', type: 'iframe', embed: 'https://player.bilibili.com/player.html?bvid=BV1NwTe6xEwu', url: 'https://www.bilibili.com/video/BV1NwTe6xEwu' }],
         behindScenes: [],
-        downloads: []
+        downloads: [
+          { label: '夸克 - 合集',
+          mediaInfo: '',
+          url: 'https://pan.quark.cn/s/d225ce5cd092?pwd=Wmjn',
+          code: 'Wmjn',
+          cover: ''}
+        ]
       },
       {
         id: 'sw_mz',
